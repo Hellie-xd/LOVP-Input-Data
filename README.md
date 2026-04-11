@@ -19,6 +19,7 @@ each person in one input file looks like the following:
 
 ## Type 1: Random
 Every person is fully random where they start, and where they leave
+
 **example:** ```Random(5)-0.csv``` $\to$ 
 ```
 87;8;2;
@@ -33,8 +34,10 @@ Every person is fully random where they start, and where they leave
 - 25 $\times$ 20 people
 
 ## Type 2: Concentrated Random
-Half of the people (truncated to the next full integer if not a whole number) are concentrated on one floor, and some of them want to go to a single floor, whilst some want to go to other floors (perhaps a class ended on that level in that moment, and a lot of people wanted to leave), plus random people coming to the lift naturally
+Half of the people (truncated to the next full integer if not a whole number) are concentrated on one floor, and some of them want to go to a single floor, whilst some want to go to other floors (perhaps a class ended on that level in that moment, and a lot of people wanted to leave), plus random people coming to the lift naturally 
+
 **example:** ```ConcentratedPlusRandom(10,5-3)-17.csv``` $\to$ 
+
 ```
 73;4;6;
 79;4;1;
@@ -47,6 +50,7 @@ Half of the people (truncated to the next full integer if not a whole number) ar
 82;7;8;
 81;7;6;
 ```
+
 *Subtypes*:
 - 25 $\times$ 5 people, 3 concentrated, 2 same destination
 - 25 $\times$ 10 people, 5 concentrated, 3 same destination
@@ -58,6 +62,7 @@ Half of the people (truncated to the next full integer if not a whole number) ar
 
 ## Type 3: Concentrated
 Every person comes from one level, and some want to go to one level, some want to go to others
+
 Subtypes:
 - 25 $\times$ 5 people, 2 same destination
 - 25 $\times$ 10 people, 3 same destination
@@ -74,6 +79,7 @@ Option  MIP = Cplex;
 Option  ResLim = 500;  
 Option  Threads = 0;
 ```
+
 For the accuracy (`optcr`):
 - 0.0 (0%) if 5 people
 - 0.05 (5%) if 10 people
@@ -83,11 +89,13 @@ Unfortunately due to computational limitations these thresholds are rarely achie
 
 ## Optimal result files
 The currently calculated optimal results for each input can be found in the *Optimal_Results/* subfolders, with their corresponding typename sorted. 
+
 **example**: `Optimal_Results/Type1`
 
 <hr>
 
 In each folder, you will find a "*Batch_Lift_Results.txt*" file, verbosely depicting all of the runs in readable format, showing the most optimal result that the solver found.
+
 **example**:
 `Type1/Batch_Lift_Results.txt`
 ```
@@ -118,6 +126,7 @@ In each folder, you will find a "*Batch_Lift_Results.txt*" file, verbosely depic
 <hr>
 
 The *Optimal_Results.csv* file contains all of the total time, best possible times, relative gaps for each input
+
 **example:**
 `Type1/Optimal_Results.csv`
 ```csv
@@ -134,6 +143,7 @@ Random(5)-1.csv		;49				;49.00			;0.00%			;0%
 <hr>
 
 In the *json* directory you can find each individual solution's itiniary plan
+
 **example:**
 `Random(5)-0-stops.json`
 ```
@@ -154,6 +164,7 @@ In the *json* directory you can find each individual solution's itiniary plan
 <hr>
 
 In the *txt* directory you can find each individual solution's itiniary plan in readable format (like in "*Batch_Lift_Results.txt*")
+
 **example:**
 `Random(5)-0-result.txt`
 ```
