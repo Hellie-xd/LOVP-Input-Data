@@ -1,0 +1,63 @@
+[
+  {
+    "floor": 3,
+    "people_got_out": [],
+    "people_got_in": ["person-8", "person-9", "person-16"]
+  },
+  {
+    "floor": 9,
+    "people_got_out": ["person-9"],
+    "people_got_in": ["person-1", "person-2", "person-4", "person-14", "person-18"]
+  },
+  {
+    "floor": 7,
+    "people_got_out": ["person-2"],
+    "people_got_in": []
+  },
+  {
+    "floor": 8,
+    "people_got_out": ["person-1", "person-4"],
+    "people_got_in": ["person-3", "person-13", "person-19"]
+  },
+  {
+    "floor": 6,
+    "people_got_out": ["person-16", "person-18", "person-19"],
+    "people_got_in": ["person-6", "person-11"]
+  },
+  {
+    "floor": 0,
+    "people_got_out": ["person-3"],
+    "people_got_in": ["person-5"]
+  },
+  {
+    "floor": 2,
+    "people_got_out": ["person-5", "person-13"],
+    "people_got_in": ["person-7", "person-10", "person-17"]
+  },
+  {
+    "floor": 1,
+    "people_got_out": ["person-7", "person-8", "person-11"],
+    "people_got_in": ["person-12"]
+  },
+  {
+    "floor": 3,
+    "people_got_out": ["person-10", "person-12"],
+    "people_got_in": ["person-20"]
+  },
+  {
+    "floor": 4,
+    "people_got_out": ["person-6", "person-20"],
+    "people_got_in": []
+  },
+  {
+    "floor": 5,
+    "people_got_out": ["person-14", "person-17"],
+    "people_got_in": ["person-15"]
+  },
+  {
+    "floor": 8,
+    "people_got_out": ["person-15"],
+    "people_got_in": []
+  }
+]
+

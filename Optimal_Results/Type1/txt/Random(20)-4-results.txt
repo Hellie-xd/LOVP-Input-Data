@@ -1,0 +1,31 @@
+===============================================================
+ ROUTE ITINERARY FOR: Random(20)-4
+ TOTAL TIME: 130 | BEST POSSIBLE: 101.02
+ ABS GAP:    28.98 | REL GAP: 22.29 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   3   | Doors Open. P7 IN.
+  2   |   3   | Idle.
+  3   |   3   | Idle.
+  4   |   3   | Idle.
+  5   |   3   | In transit...
+  6   |   4   | Doors Open. P3 IN. P19 IN.
+  7   |   5   | In transit...
+  8   |   8   | Doors Open. P4 IN. P9 IN. P10 IN. P16 IN. P19 OUT. P20 IN.
+  9   |   9   | Doors Open. P3 OUT. P7 OUT. P9 OUT. P12 IN. P20 OUT.
+ 10   |   7   | Doors Open. P2 IN. P6 IN.
+ 11   |   5   | Idle.
+ 12   |   5   | Doors Open. P16 OUT.
+ 13   |   3   | Idle.
+ 14   |   3   | Doors Open. P5 IN. P10 OUT. P11 IN. P13 IN.
+ 15   |   1   | Idle.
+ 16   |   1   | Doors Open. P2 OUT. P5 OUT. P6 OUT. P13 OUT. P17 IN. P18 IN.
+ 17   |   2   | Doors Open. P4 OUT. P14 IN. P15 IN.
+ 18   |   0   | Idle.
+ 19   |   0   | Doors Open. P12 OUT. P15 OUT. P18 OUT.
+ 20   |   4   | Doors Open. P8 IN. P14 OUT.
+ 21   |   5   | In transit...
+ 22   |   6   | Idle.
+ 23   |   6   | Doors Open. P1 IN. P11 OUT.
+ 24   |   7   | Idle.
+ 25   |   7   | Doors Open. P1 OUT. P8 OUT. P17 OUT.
+

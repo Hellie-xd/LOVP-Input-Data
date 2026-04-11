@@ -1,0 +1,16 @@
+===============================================================
+ ROUTE ITINERARY FOR: Random(5)-5
+ TOTAL TIME: 47 | BEST POSSIBLE: 47.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   9   | Idle.
+  2   |   9   | Doors Open. P1 IN. P2 IN.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 OUT.
+  5   |   5   | Doors Open. P4 IN.
+  6   |   2   | Doors Open. P5 IN.
+  7   |   1   | Doors Open. P2 OUT. P5 OUT.
+  8   |   3   | Doors Open. P3 IN.
+  9   |   6   | Idle.
+ 10   |   6   | Doors Open. P3 OUT. P4 OUT.
+
