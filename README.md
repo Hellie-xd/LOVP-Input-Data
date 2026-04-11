@@ -48,23 +48,23 @@ Half of the people (truncated to the next full integer if not a whole number) ar
 81;7;6;
 ```
 *Subtypes*:
-- 25$\times$ 5 people, 3 concentrated, 2 same destination
-- 25$\times$ 10 people, 5 concentrated, 3 same destination
-- 25$\times$ 20 people, 10 concentrated, 5 same destination
-- 25$\times$ 5 people, 3 concentrated (all same)
-- 25$\times$ 10 people, 5 concentrated (all same)
-- 25$\times$ 20 people, 10 concentrated (all same)
+- 25 $\times$ 5 people, 3 concentrated, 2 same destination
+- 25 $\times$ 10 people, 5 concentrated, 3 same destination
+- 25 $\times$ 20 people, 10 concentrated, 5 same destination
+- 25 $\times$ 5 people, 3 concentrated (all same)
+- 25 $\times$ 10 people, 5 concentrated (all same)
+- 25 $\times$ 20 people, 10 concentrated (all same)
 
 
 ## Type 3: Concentrated
 Every person comes from one level, and some want to go to one level, some want to go to others
 Subtypes:
-- 25$\times$ 5 people, 2 same destination
-- 25$\times$ 10 people, 3 same destination
-- 25$\times$ 20 people, 5 same destination
-- 25$\times$ 5 people, 3 same destination
-- 25$\times$ 10 people, 6 same destination
-- 25$\times$ 20 people, 12 same destination
+- 25 $\times$ 5 people, 2 same destination
+- 25 $\times$ 10 people, 3 same destination
+- 25 $\times$ 20 people, 5 same destination
+- 25 $\times$ 5 people, 3 same destination
+- 25 $\times$ 10 people, 6 same destination
+- 25 $\times$ 20 people, 12 same destination
 
 # Optimal results
 ## Methodology
