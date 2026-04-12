@@ -1,0 +1,28 @@
+[
+  {
+    "floor": 7,
+    "people_got_out": [],
+    "people_got_in": ["person-2", "person-3", "person-4", "person-5"]
+  },
+  {
+    "floor": 6,
+    "people_got_out": [],
+    "people_got_in": ["person-1"]
+  },
+  {
+    "floor": 3,
+    "people_got_out": ["person-2"],
+    "people_got_in": []
+  },
+  {
+    "floor": 2,
+    "people_got_out": ["person-5"],
+    "people_got_in": []
+  },
+  {
+    "floor": 0,
+    "people_got_out": ["person-1", "person-3", "person-4"],
+    "people_got_in": []
+  }
+]
+

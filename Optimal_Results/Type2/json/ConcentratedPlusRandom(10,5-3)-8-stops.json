@@ -1,0 +1,43 @@
+[
+  {
+    "floor": 8,
+    "people_got_out": [],
+    "people_got_in": ["person-3"]
+  },
+  {
+    "floor": 7,
+    "people_got_out": [],
+    "people_got_in": ["person-6", "person-7", "person-8", "person-9", "person-10"]
+  },
+  {
+    "floor": 6,
+    "people_got_out": ["person-3"],
+    "people_got_in": ["person-1", "person-5"]
+  },
+  {
+    "floor": 4,
+    "people_got_out": ["person-5"],
+    "people_got_in": []
+  },
+  {
+    "floor": 1,
+    "people_got_out": [],
+    "people_got_in": ["person-4"]
+  },
+  {
+    "floor": 0,
+    "people_got_out": ["person-6", "person-7", "person-8", "person-9", "person-10"],
+    "people_got_in": []
+  },
+  {
+    "floor": 8,
+    "people_got_out": ["person-1"],
+    "people_got_in": ["person-2"]
+  },
+  {
+    "floor": 9,
+    "people_got_out": ["person-2", "person-4"],
+    "people_got_in": []
+  }
+]
+
