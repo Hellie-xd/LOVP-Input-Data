@@ -1,0 +1,3800 @@
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-23
+ TOTAL TIME: 71 | BEST POSSIBLE: 54.05
+ ABS GAP:    16.95 | REL GAP: 23.88 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P4 IN. P6 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  3   |   5   | Idle.
+  4   |   5   | Doors Open. P10 OUT.
+  5   |   4   | Idle.
+  6   |   4   | Idle.
+  7   |   4   | In transit...
+  8   |   2   | Doors Open. P8 OUT.
+  9   |   2   | In transit...
+ 10   |   4   | Doors Open. P7 OUT.
+ 11   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN.
+ 12   |   7   | In transit...
+ 13   |   1   | Doors Open. P9 OUT.
+ 14   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-12
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   6   | Doors Open. P4 OUT.
+  6   |   3   | Doors Open. P3 OUT.
+  7   |   0   | Doors Open. P1 OUT. P2 OUT. P5 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-9
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   5   | Doors Open. P3 OUT.
+  5   |   4   | Doors Open. P4 OUT.
+  6   |   2   | Doors Open. P5 OUT.
+  7   |   0   | Doors Open. P1 OUT. P2 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-5
+ TOTAL TIME: 73 | BEST POSSIBLE: 59.48
+ ABS GAP:    13.52 | REL GAP: 18.52 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P6 IN. P8 IN. P9 IN. P10 IN.
+  3   |   1   | Doors Open. P8 OUT. P10 OUT.
+  4   |   9   | Doors Open. P9 OUT.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN.
+  6   |   6   | Idle.
+  7   |   6   | Idle.
+  8   |   6   | Idle.
+  9   |   6   | Idle.
+ 10   |   6   | Idle.
+ 11   |   6   | Idle.
+ 12   |   6   | Idle.
+ 13   |   6   | In transit...
+ 14   |   1   | Idle.
+ 15   |   1   | Idle.
+ 16   |   1   | Idle.
+ 17   |   1   | Idle.
+ 18   |   1   | Idle.
+ 19   |   1   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P7 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-21
+ TOTAL TIME: 127 | BEST POSSIBLE: 96.13
+ ABS GAP:    30.87 | REL GAP: 24.30 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P6 IN. P8 IN. P10 IN. P13 IN. P14 IN. P16 IN. P19 IN.
+  2   |   4   | Idle.
+  3   |   4   | In transit...
+  4   |   3   | Doors Open. P19 OUT.
+  5   |   3   | In transit...
+  6   |   4   | Idle.
+  7   |   4   | Idle.
+  8   |   4   | Idle.
+  9   |   4   | Idle.
+ 10   |   4   | Doors Open. P8 OUT. P14 OUT. P16 OUT.
+ 11   |   2   | Doors Open. P6 OUT. P10 OUT. P13 OUT.
+ 12   |   5   | Idle.
+ 13   |   5   | Idle.
+ 14   |   5   | Idle.
+ 15   |   5   | In transit...
+ 16   |   7   | Doors Open. P7 IN. P9 IN. P11 IN. P12 IN. P15 IN. P17 IN. P18 IN.
+ 17   |   5   | Idle.
+ 18   |   5   | Doors Open. P11 OUT. P15 OUT. P17 OUT.
+ 19   |   6   | In transit...
+ 20   |   9   | Doors Open. P7 OUT. P9 OUT. P12 OUT.
+ 21   |   9   | In transit...
+ 22   |   8   | Idle.
+ 23   |   8   | Doors Open. P18 OUT.
+ 24   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P20 IN.
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P20 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-22
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | In transit...
+  7   |   6   | In transit...
+  8   |   5   | In transit...
+  9   |   4   | Doors Open. P4 OUT. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-20
+ TOTAL TIME: 65 | BEST POSSIBLE: 61.75
+ ABS GAP:    3.25 | REL GAP: 5.00 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P6 IN. P8 IN. P9 IN. P10 IN.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | In transit...
+ 10   |   9   | Idle.
+ 11   |   9   | Doors Open. P8 OUT. P10 OUT.
+ 12   |   8   | Doors Open. P4 OUT. P9 OUT.
+ 13   |   7   | Doors Open. P2 IN. P5 IN. P7 IN.
+ 14   |   7   | In transit...
+ 15   |   5   | Doors Open. P5 OUT.
+ 16   |   2   | Doors Open. P6 OUT. P7 OUT.
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-11
+ TOTAL TIME: 67 | BEST POSSIBLE: 55.75
+ ABS GAP:    11.25 | REL GAP: 16.79 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P2 IN. P4 IN. P5 IN. P8 IN. P10 IN.
+  3   |   6   | In transit...
+  4   |   3   | Idle.
+  5   |   3   | Idle.
+  6   |   3   | Idle.
+  7   |   3   | Idle.
+  8   |   3   | Doors Open. P5 OUT. P8 OUT.
+  9   |   3   | In transit...
+ 10   |   4   | Doors Open. P4 OUT.
+ 11   |   7   | Doors Open. P1 IN. P3 IN. P6 IN. P7 IN. P9 IN.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | In transit...
+ 16   |   6   | In transit...
+ 17   |   1   | Idle.
+ 18   |   1   | Doors Open. P6 OUT. P9 OUT. P10 OUT.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P7 OUT.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-2
+ TOTAL TIME: 131 | BEST POSSIBLE: 94.92
+ ABS GAP:    36.08 | REL GAP: 27.54 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P4 IN. P7 IN. P8 IN. P9 IN. P17 IN. P19 IN.
+  2   |   0   | Doors Open. P1 OUT. P4 OUT. P7 OUT. P8 OUT. P9 OUT. P17 OUT.
+  3   |   0   | In transit...
+  4   |   1   | Idle.
+  5   |   1   | Idle.
+  6   |   1   | In transit...
+  7   |   2   | Doors Open. P19 OUT.
+  8   |   7   | Doors Open. P10 IN. P13 IN. P14 IN. P15 IN. P16 IN. P18 IN. P20 IN.
+  9   |   7   | Idle.
+ 10   |   7   | Idle.
+ 11   |   7   | In transit...
+ 12   |   8   | Doors Open. P13 OUT. P15 OUT. P18 OUT.
+ 13   |   7   | In transit...
+ 14   |   5   | Idle.
+ 15   |   5   | Doors Open. P14 OUT.
+ 16   |   4   | Doors Open. P16 OUT.
+ 17   |   4   | Idle.
+ 18   |   4   | In transit...
+ 19   |   3   | Doors Open. P20 OUT.
+ 20   |   3   | In transit...
+ 21   |   7   | Idle.
+ 22   |   7   | Doors Open. P2 IN. P3 IN. P5 IN. P6 IN. P11 IN. P12 IN.
+ 23   |   4   | In transit...
+ 24   |   0   | Doors Open. P2 OUT. P3 OUT. P5 OUT. P6 OUT. P10 OUT. P11 OUT. P12 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-1
+ TOTAL TIME: 129 | BEST POSSIBLE: 96.80
+ ABS GAP:    32.20 | REL GAP: 24.96 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P9 IN. P13 IN. P14 IN. P15 IN. P18 IN. P20 IN.
+  3   |   6   | Idle.
+  4   |   6   | Doors Open. P13 OUT. P15 OUT. P18 OUT. P20 OUT.
+  5   |   7   | In transit...
+  6   |   9   | Doors Open. P9 OUT. P14 OUT.
+  7   |   7   | Doors Open. P5 IN. P6 IN. P7 IN. P8 IN. P11 IN. P17 IN. P19 IN.
+  8   |   0   | Doors Open. P5 OUT. P7 OUT. P11 OUT. P17 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+ 11   |   0   | Idle.
+ 12   |   0   | In transit...
+ 13   |   2   | Doors Open. P6 OUT. P8 OUT.
+ 14   |   5   | Doors Open. P19 OUT.
+ 15   |   7   | Idle.
+ 16   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P10 IN. P12 IN. P16 IN.
+ 17   |   4   | Doors Open. P10 OUT.
+ 18   |   3   | In transit...
+ 19   |   1   | Doors Open. P16 OUT.
+ 20   |   1   | In transit...
+ 21   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P12 OUT.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-20
+ TOTAL TIME: 69 | BEST POSSIBLE: 57.57
+ ABS GAP:    11.43 | REL GAP: 16.56 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Doors Open. P2 IN. P7 IN. P8 IN. P9 IN.
+ 10   |   6   | Idle.
+ 11   |   6   | Idle.
+ 12   |   6   | Doors Open. P7 OUT.
+ 13   |   4   | Doors Open. P9 OUT.
+ 14   |   2   | Doors Open. P8 OUT.
+ 15   |   2   | In transit...
+ 16   |   7   | Idle.
+ 17   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P5 IN. P6 IN. P10 IN.
+ 18   |   7   | In transit...
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P10 OUT.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-24
+ TOTAL TIME: 71 | BEST POSSIBLE: 58.78
+ ABS GAP:    12.22 | REL GAP: 17.21 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P3 IN. P4 IN. P5 IN. P6 IN. P7 IN. P8 IN. P10 IN.
+  2   |   8   | Doors Open. P4 OUT.
+  3   |   4   | Doors Open. P8 OUT.
+  4   |   6   | Doors Open. P7 OUT.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P9 IN.
+  6   |   3   | Doors Open. P9 OUT.
+  7   |   3   | In transit...
+  8   |   2   | Doors Open. P6 OUT. P10 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+ 11   |   0   | Idle.
+ 12   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P5 OUT.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-13
+ TOTAL TIME: 71 | BEST POSSIBLE: 60.52
+ ABS GAP:    10.48 | REL GAP: 14.76 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P4 IN. P6 IN. P7 IN. P8 IN. P10 IN.
+  5   |   9   | Doors Open. P10 OUT.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | In transit...
+  9   |   3   | Doors Open. P7 OUT. P8 OUT.
+ 10   |   3   | Idle.
+ 11   |   3   | Idle.
+ 12   |   3   | Idle.
+ 13   |   3   | Idle.
+ 14   |   3   | Idle.
+ 15   |   3   | In transit...
+ 16   |   7   | Doors Open. P3 IN. P5 IN. P9 IN.
+ 17   |   2   | Idle.
+ 18   |   2   | Doors Open. P9 OUT.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-21
+ TOTAL TIME: 133 | BEST POSSIBLE: 95.27
+ ABS GAP:    37.73 | REL GAP: 28.37 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P2 IN. P3 IN. P7 IN. P12 IN. P16 IN. P18 IN. P19 IN.
+  2   |   7   | Idle.
+  3   |   7   | In transit...
+  4   |   8   | Doors Open. P16 OUT.
+  5   |   9   | Idle.
+  6   |   9   | Doors Open. P19 OUT.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Idle.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | In transit...
+ 14   |   5   | In transit...
+ 15   |   0   | Doors Open. P2 OUT. P3 OUT. P7 OUT. P12 OUT. P18 OUT.
+ 16   |   7   | Idle.
+ 17   |   7   | Doors Open. P4 IN. P6 IN. P13 IN. P14 IN. P15 IN. P17 IN. P20 IN.
+ 18   |   4   | Doors Open. P15 OUT.
+ 19   |   3   | Doors Open. P13 OUT. P14 OUT. P17 OUT.
+ 20   |   5   | Doors Open. P20 OUT.
+ 21   |   7   | Doors Open. P1 IN. P5 IN. P8 IN. P9 IN. P10 IN. P11 IN.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Doors Open. P1 OUT. P4 OUT. P5 OUT. P6 OUT. P8 OUT. P9 OUT. P10 OUT. P11 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-6
+ TOTAL TIME: 65 | BEST POSSIBLE: 57.00
+ ABS GAP:    8.00 | REL GAP: 12.31 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P7 IN. P8 IN. P9 IN.
+  3   |   7   | In transit...
+  4   |   4   | Doors Open. P7 OUT. P9 OUT.
+  5   |   4   | In transit...
+  6   |   6   | Idle.
+  7   |   6   | Idle.
+  8   |   6   | Idle.
+  9   |   6   | Doors Open. P8 OUT.
+ 10   |   7   | Idle.
+ 11   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN. P10 IN.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | In transit...
+ 16   |   5   | Idle.
+ 17   |   5   | Idle.
+ 18   |   5   | Idle.
+ 19   |   5   | Doors Open. P10 OUT.
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-4
+ TOTAL TIME: 137 | BEST POSSIBLE: 96.31
+ ABS GAP:    40.69 | REL GAP: 29.70 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P4 IN. P6 IN. P8 IN. P12 IN. P14 IN. P20 IN.
+  3   |   6   | In transit...
+  4   |   3   | Doors Open. P20 OUT.
+  5   |   0   | Doors Open. P1 OUT. P4 OUT. P6 OUT. P8 OUT. P12 OUT. P14 OUT.
+  6   |   7   | Doors Open. P2 IN. P13 IN. P15 IN. P16 IN. P17 IN. P18 IN. P19 IN.
+  7   |   9   | Doors Open. P17 OUT. P19 OUT.
+  8   |   6   | Doors Open. P16 OUT.
+  9   |   6   | Idle.
+ 10   |   6   | Idle.
+ 11   |   6   | Idle.
+ 12   |   6   | In transit...
+ 13   |   1   | Idle.
+ 14   |   1   | Idle.
+ 15   |   1   | Doors Open. P13 OUT. P15 OUT.
+ 16   |   2   | Idle.
+ 17   |   2   | Idle.
+ 18   |   2   | Idle.
+ 19   |   2   | Idle.
+ 20   |   2   | Idle.
+ 21   |   2   | Doors Open. P18 OUT.
+ 22   |   2   | Idle.
+ 23   |   2   | In transit...
+ 24   |   7   | Doors Open. P3 IN. P5 IN. P7 IN. P9 IN. P10 IN. P11 IN.
+ 25   |   0   | Doors Open. P2 OUT. P3 OUT. P5 OUT. P7 OUT. P9 OUT. P10 OUT. P11 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-12
+ TOTAL TIME: 125 | BEST POSSIBLE: 96.20
+ ABS GAP:    28.80 | REL GAP: 23.04 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P6 IN. P8 IN. P9 IN. P15 IN. P17 IN. P18 IN.
+  4   |   5   | Doors Open. P6 OUT. P15 OUT. P17 OUT.
+  5   |   9   | Idle.
+  6   |   9   | Doors Open. P9 OUT. P18 OUT.
+  7   |   8   | Doors Open. P8 OUT.
+  8   |   8   | Idle.
+  9   |   8   | In transit...
+ 10   |   7   | Idle.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Doors Open. P7 IN. P10 IN. P11 IN. P12 IN. P13 IN. P14 IN. P20 IN.
+ 14   |   7   | In transit...
+ 15   |   3   | Doors Open. P7 OUT. P10 OUT. P12 OUT. P13 OUT. P20 OUT.
+ 16   |   2   | Doors Open. P11 OUT. P14 OUT.
+ 17   |   3   | Idle.
+ 18   |   3   | In transit...
+ 19   |   7   | Idle.
+ 20   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P16 IN. P19 IN.
+ 21   |   1   | Doors Open. P16 OUT.
+ 22   |   1   | Idle.
+ 23   |   1   | Idle.
+ 24   |   1   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P19 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-3
+ TOTAL TIME: 77 | BEST POSSIBLE: 61.36
+ ABS GAP:    15.64 | REL GAP: 20.31 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P8 IN.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | In transit...
+  7   |   0   | Doors Open. P1 OUT. P4 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+ 11   |   5   | Idle.
+ 12   |   5   | Idle.
+ 13   |   5   | Idle.
+ 14   |   5   | Doors Open. P8 OUT.
+ 15   |   5   | In transit...
+ 16   |   7   | Idle.
+ 17   |   7   | Doors Open. P6 IN. P9 IN. P10 IN.
+ 18   |   7   | In transit...
+ 19   |   9   | Doors Open. P9 OUT.
+ 20   |   0   | Doors Open. P2 OUT. P3 OUT. P5 OUT. P6 OUT. P7 OUT. P10 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-12
+ TOTAL TIME: 135 | BEST POSSIBLE: 94.00
+ ABS GAP:    41.00 | REL GAP: 30.37 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Doors Open. P13 IN. P14 IN. P15 IN. P16 IN. P19 IN. P20 IN.
+  8   |   9   | Doors Open. P19 OUT.
+  9   |   9   | In transit...
+ 10   |   8   | Doors Open. P13 OUT. P16 OUT.
+ 11   |   6   | Doors Open. P15 OUT.
+ 12   |   6   | In transit...
+ 13   |   3   | Doors Open. P14 OUT.
+ 14   |   4   | Doors Open. P20 OUT.
+ 15   |   4   | In transit...
+ 16   |   7   | Doors Open. P2 IN. P6 IN. P7 IN. P10 IN. P12 IN. P17 IN. P18 IN.
+ 17   |   0   | Idle.
+ 18   |   0   | Doors Open. P2 OUT. P6 OUT. P7 OUT. P10 OUT. P12 OUT. P17 OUT.
+ 19   |   1   | Idle.
+ 20   |   1   | Idle.
+ 21   |   1   | Doors Open. P18 OUT.
+ 22   |   1   | In transit...
+ 23   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P5 IN. P8 IN. P9 IN. P11 IN.
+ 24   |   0   | Idle.
+ 25   |   0   | Doors Open. P1 OUT. P3 OUT. P4 OUT. P5 OUT. P8 OUT. P9 OUT. P11 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-6
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   7   | In transit...
+  6   |   8   | Doors Open. P5 OUT.
+  7   |   6   | Doors Open. P4 OUT.
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-0
+ TOTAL TIME: 71 | BEST POSSIBLE: 54.20
+ ABS GAP:    16.80 | REL GAP: 23.67 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P7 IN. P8 IN. P9 IN.
+  2   |   5   | Idle.
+  3   |   5   | Doors Open. P8 OUT.
+  4   |   5   | In transit...
+  5   |   4   | Idle.
+  6   |   4   | Doors Open. P7 OUT.
+  7   |   2   | Doors Open. P9 OUT.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN. P10 IN.
+ 11   |   1   | Doors Open. P10 OUT.
+ 12   |   1   | Idle.
+ 13   |   1   | Idle.
+ 14   |   1   | In transit...
+ 15   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-5
+ TOTAL TIME: 125 | BEST POSSIBLE: 96.33
+ ABS GAP:    28.67 | REL GAP: 22.93 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P9 IN. P10 IN. P11 IN. P12 IN. P19 IN. P20 IN.
+  2   |   9   | Doors Open. P12 OUT. P20 OUT.
+  3   |   8   | Idle.
+  4   |   8   | Doors Open. P9 OUT. P19 OUT.
+  5   |   6   | Doors Open. P10 OUT. P11 OUT.
+  6   |   6   | In transit...
+  7   |   7   | Doors Open. P6 IN. P13 IN. P14 IN. P15 IN. P16 IN. P17 IN. P18 IN.
+  8   |   7   | In transit...
+  9   |   3   | Doors Open. P15 OUT.
+ 10   |   1   | Doors Open. P6 OUT. P14 OUT. P18 OUT.
+ 11   |   2   | Doors Open. P13 OUT. P16 OUT. P17 OUT.
+ 12   |   2   | Idle.
+ 13   |   2   | Idle.
+ 14   |   2   | Idle.
+ 15   |   2   | Idle.
+ 16   |   2   | Idle.
+ 17   |   2   | Idle.
+ 18   |   2   | Idle.
+ 19   |   2   | In transit...
+ 20   |   7   | Idle.
+ 21   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P8 IN.
+ 22   |   7   | Idle.
+ 23   |   7   | In transit...
+ 24   |   0   | Idle.
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P8 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-3
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | In transit...
+  9   |   9   | Doors Open. P4 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P5 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-3
+ TOTAL TIME: 135 | BEST POSSIBLE: 97.26
+ ABS GAP:    37.74 | REL GAP: 27.96 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P9 IN. P13 IN. P14 IN. P16 IN. P18 IN. P19 IN.
+  2   |   8   | Doors Open. P16 OUT.
+  3   |   9   | Doors Open. P19 OUT.
+  4   |   6   | Doors Open. P18 OUT.
+  5   |   6   | In transit...
+  6   |   3   | Doors Open. P13 OUT.
+  7   |   4   | In transit...
+  8   |   5   | Idle.
+  9   |   5   | Doors Open. P14 OUT.
+ 10   |   7   | Idle.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | Doors Open. P6 IN. P7 IN. P8 IN. P11 IN. P15 IN. P17 IN. P20 IN.
+ 16   |   6   | Idle.
+ 17   |   6   | In transit...
+ 18   |   3   | Idle.
+ 19   |   3   | In transit...
+ 20   |   2   | Doors Open. P15 OUT. P20 OUT.
+ 21   |   0   | Doors Open. P6 OUT. P7 OUT. P8 OUT. P9 OUT. P11 OUT. P17 OUT.
+ 22   |   1   | In transit...
+ 23   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P10 IN. P12 IN.
+ 24   |   4   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P10 OUT. P12 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-21
+ TOTAL TIME: 61 | BEST POSSIBLE: 57.95
+ ABS GAP:    3.05 | REL GAP: 5.00 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Doors Open. P4 IN. P5 IN. P8 IN. P9 IN. P10 IN.
+ 10   |   8   | Doors Open. P9 OUT. P10 OUT.
+ 11   |   8   | In transit...
+ 12   |   6   | Idle.
+ 13   |   6   | Doors Open. P8 OUT.
+ 14   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P6 IN. P7 IN.
+ 15   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P7 OUT.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-1
+ TOTAL TIME: 63 | BEST POSSIBLE: 59.73
+ ABS GAP:    3.27 | REL GAP: 5.20 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P5 IN. P6 IN. P7 IN. P8 IN.
+  2   |   6   | Doors Open. P5 OUT. P6 OUT. P7 OUT. P8 OUT.
+  3   |   6   | Idle.
+  4   |   6   | Idle.
+  5   |   6   | Idle.
+  6   |   6   | Idle.
+  7   |   6   | Idle.
+  8   |   6   | Idle.
+  9   |   6   | Idle.
+ 10   |   6   | Idle.
+ 11   |   6   | In transit...
+ 12   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P9 IN. P10 IN.
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | In transit...
+ 17   |   8   | Doors Open. P4 OUT. P9 OUT.
+ 18   |   1   | Doors Open. P10 OUT.
+ 19   |   1   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-15
+ TOTAL TIME: 133 | BEST POSSIBLE: 98.53
+ ABS GAP:    34.47 | REL GAP: 25.92 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P2 IN. P3 IN. P4 IN. P5 IN. P15 IN. P16 IN. P18 IN.
+  3   |   0   | Doors Open. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P15 OUT. P16 OUT. P18 OUT.
+  4   |   7   | Doors Open. P6 IN. P7 IN. P8 IN. P10 IN. P14 IN. P17 IN. P20 IN.
+  5   |   9   | Doors Open. P10 OUT.
+  6   |   8   | Doors Open. P8 OUT.
+  7   |   8   | In transit...
+  8   |   5   | Doors Open. P7 OUT. P14 OUT.
+  9   |   5   | In transit...
+ 10   |   6   | Idle.
+ 11   |   6   | Doors Open. P6 OUT. P20 OUT.
+ 12   |   6   | Idle.
+ 13   |   6   | Idle.
+ 14   |   6   | Idle.
+ 15   |   6   | In transit...
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Doors Open. P1 IN. P9 IN. P11 IN. P12 IN. P13 IN. P19 IN.
+ 19   |   4   | Idle.
+ 20   |   4   | Doors Open. P12 OUT.
+ 21   |   4   | In transit...
+ 22   |   3   | Doors Open. P9 OUT. P11 OUT. P17 OUT.
+ 23   |   1   | Doors Open. P13 OUT. P19 OUT.
+ 24   |   0   | Doors Open. P1 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-24
+ TOTAL TIME: 77 | BEST POSSIBLE: 61.95
+ ABS GAP:    15.05 | REL GAP: 19.55 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P2 IN. P4 IN. P5 IN. P6 IN. P7 IN. P8 IN. P10 IN.
+  4   |   0   | Doors Open. P5 OUT. P8 OUT.
+  5   |   0   | In transit...
+  6   |   4   | Doors Open. P10 OUT.
+  7   |   9   | Doors Open. P7 OUT.
+  8   |   7   | Doors Open. P1 IN. P3 IN. P9 IN.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+ 11   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P6 OUT. P9 OUT.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-4
+ TOTAL TIME: 69 | BEST POSSIBLE: 60.37
+ ABS GAP:    8.63 | REL GAP: 12.50 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P7 IN. P8 IN. P9 IN. P10 IN.
+  4   |   5   | Doors Open. P9 OUT.
+  5   |   4   | Doors Open. P10 OUT.
+  6   |   8   | Doors Open. P8 OUT.
+  7   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN.
+  8   |   1   | Doors Open. P7 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 11   |   0   | Idle.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-11
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   7   | In transit...
+  7   |   8   | Doors Open. P4 OUT.
+  8   |   4   | Doors Open. P3 OUT.
+  9   |   1   | Doors Open. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-10
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   7   | In transit...
+  3   |   9   | Doors Open. P5 OUT.
+  4   |   4   | Doors Open. P4 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-13
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   8   | Doors Open. P4 OUT.
+  3   |   3   | Idle.
+  4   |   3   | Doors Open. P5 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-2
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  9   |   5   | Doors Open. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-13
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | In transit...
+  7   |   8   | Doors Open. P5 OUT.
+  8   |   4   | Idle.
+  9   |   4   | Doors Open. P3 OUT. P4 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-16
+ TOTAL TIME: 71 | BEST POSSIBLE: 59.36
+ ABS GAP:    11.64 | REL GAP: 16.39 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P2 IN. P5 IN. P6 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  2   |   5   | Idle.
+  3   |   5   | Idle.
+  4   |   5   | Idle.
+  5   |   5   | Idle.
+  6   |   5   | Idle.
+  7   |   5   | In transit...
+  8   |   2   | Doors Open. P8 OUT. P10 OUT.
+  9   |   3   | Doors Open. P7 OUT.
+ 10   |   3   | In transit...
+ 11   |   4   | Idle.
+ 12   |   4   | Idle.
+ 13   |   4   | Idle.
+ 14   |   4   | Idle.
+ 15   |   4   | In transit...
+ 16   |   8   | Idle.
+ 17   |   8   | Doors Open. P9 OUT.
+ 18   |   7   | Idle.
+ 19   |   7   | Doors Open. P1 IN. P3 IN. P4 IN.
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-10
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   5   | Idle.
+  3   |   5   | Doors Open. P3 OUT.
+  4   |   4   | Idle.
+  5   |   4   | Idle.
+  6   |   4   | Doors Open. P5 OUT.
+  7   |   4   | In transit...
+  8   |   1   | Doors Open. P4 OUT.
+  9   |   1   | In transit...
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-8
+ TOTAL TIME: 69 | BEST POSSIBLE: 53.31
+ ABS GAP:    15.69 | REL GAP: 22.74 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P5 IN. P6 IN. P7 IN. P10 IN.
+  6   |   6   | Idle.
+  7   |   6   | Idle.
+  8   |   6   | Doors Open. P5 OUT.
+  9   |   6   | Idle.
+ 10   |   6   | In transit...
+ 11   |   4   | In transit...
+ 12   |   3   | Doors Open. P4 OUT. P10 OUT.
+ 13   |   7   | Doors Open. P2 IN. P8 IN. P9 IN.
+ 14   |   2   | Doors Open. P6 OUT. P8 OUT.
+ 15   |   1   | Doors Open. P7 OUT. P9 OUT.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-0
+ TOTAL TIME: 133 | BEST POSSIBLE: 96.06
+ ABS GAP:    36.94 | REL GAP: 27.77 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P2 IN. P5 IN. P7 IN. P11 IN. P12 IN. P17 IN. P20 IN.
+  2   |   7   | In transit...
+  3   |   0   | Doors Open. P2 OUT. P5 OUT. P7 OUT. P11 OUT. P12 OUT. P17 OUT. P20 OUT.
+  4   |   7   | Doors Open. P1 IN. P13 IN. P14 IN. P15 IN. P16 IN. P18 IN. P19 IN.
+  5   |   5   | Doors Open. P14 OUT.
+  6   |   2   | Doors Open. P15 OUT.
+  7   |   3   | Doors Open. P19 OUT.
+  8   |   6   | Idle.
+  9   |   6   | Doors Open. P13 OUT.
+ 10   |   6   | Idle.
+ 11   |   6   | In transit...
+ 12   |   8   | Doors Open. P16 OUT. P18 OUT.
+ 13   |   8   | In transit...
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Idle.
+ 19   |   7   | Doors Open. P3 IN. P4 IN. P6 IN. P8 IN. P9 IN. P10 IN.
+ 20   |   7   | In transit...
+ 21   |   0   | Doors Open. P1 OUT. P3 OUT. P4 OUT. P6 OUT. P8 OUT. P9 OUT. P10 OUT.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-11
+ TOTAL TIME: 130 | BEST POSSIBLE: 96.00
+ ABS GAP:    34.00 | REL GAP: 26.15 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P8 IN. P10 IN. P11 IN. P12 IN. P15 IN. P17 IN. P18 IN.
+  3   |   6   | Doors Open. P10 OUT. P12 OUT.
+  4   |   5   | Idle.
+  5   |   5   | Doors Open. P11 OUT. P18 OUT.
+  6   |   5   | Idle.
+  7   |   5   | In transit...
+  8   |   4   | Doors Open. P8 OUT. P17 OUT.
+  9   |   4   | In transit...
+ 10   |   8   | Doors Open. P15 OUT.
+ 11   |   8   | In transit...
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P9 IN.
+ 15   |   2   | In transit...
+ 16   |   1   | Idle.
+ 17   |   1   | Idle.
+ 18   |   1   | In transit...
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P9 OUT.
+ 20   |   1   | In transit...
+ 21   |   7   | Doors Open. P6 IN. P13 IN. P14 IN. P16 IN. P19 IN. P20 IN.
+ 22   |   7   | In transit...
+ 23   |   3   | Doors Open. P6 OUT. P16 OUT. P20 OUT.
+ 24   |   2   | Doors Open. P14 OUT. P19 OUT.
+ 25   |   1   | Doors Open. P13 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-4
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  8   |   2   | Doors Open. P5 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-13
+ TOTAL TIME: 69 | BEST POSSIBLE: 61.64
+ ABS GAP:    7.36 | REL GAP: 10.67 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P4 IN. P5 IN. P6 IN. P7 IN. P9 IN.
+  5   |   6   | Idle.
+  6   |   6   | Doors Open. P7 OUT. P9 OUT.
+  7   |   6   | Idle.
+  8   |   6   | Idle.
+  9   |   6   | In transit...
+ 10   |   8   | Doors Open. P6 OUT.
+ 11   |   9   | Doors Open. P4 OUT.
+ 12   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P8 IN. P10 IN.
+ 13   |   4   | Doors Open. P5 OUT. P10 OUT.
+ 14   |   4   | In transit...
+ 15   |   2   | Doors Open. P8 OUT.
+ 16   |   2   | Idle.
+ 17   |   2   | Idle.
+ 18   |   2   | Idle.
+ 19   |   2   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-0
+ TOTAL TIME: 73 | BEST POSSIBLE: 61.32
+ ABS GAP:    11.68 | REL GAP: 16.00 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P5 IN. P8 IN. P9 IN.
+  2   |   3   | Doors Open. P9 OUT.
+  3   |   3   | Idle.
+  4   |   3   | Idle.
+  5   |   3   | Idle.
+  6   |   3   | In transit...
+  7   |   9   | Doors Open. P5 OUT. P8 OUT.
+  8   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P6 IN. P7 IN. P10 IN.
+  9   |   2   | Doors Open. P4 OUT. P7 OUT.
+ 10   |   1   | Doors Open. P6 OUT. P10 OUT.
+ 11   |   1   | Idle.
+ 12   |   1   | Idle.
+ 13   |   1   | Idle.
+ 14   |   1   | Idle.
+ 15   |   1   | Idle.
+ 16   |   1   | Idle.
+ 17   |   1   | In transit...
+ 18   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-1
+ TOTAL TIME: 125 | BEST POSSIBLE: 91.18
+ ABS GAP:    33.82 | REL GAP: 27.06 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P5 IN. P12 IN. P14 IN. P17 IN.
+  8   |   6   | In transit...
+  9   |   4   | Idle.
+ 10   |   4   | In transit...
+ 11   |   2   | Doors Open. P17 OUT.
+ 12   |   2   | In transit...
+ 13   |   0   | Doors Open. P1 OUT. P3 OUT. P4 OUT. P5 OUT. P12 OUT. P14 OUT.
+ 14   |   3   | In transit...
+ 15   |   7   | Doors Open. P7 IN. P13 IN. P15 IN. P16 IN. P18 IN. P19 IN. P20 IN.
+ 16   |   5   | Doors Open. P13 OUT. P15 OUT. P16 OUT.
+ 17   |   3   | Doors Open. P18 OUT. P19 OUT. P20 OUT.
+ 18   |   7   | Doors Open. P2 IN. P6 IN. P8 IN. P9 IN. P10 IN. P11 IN.
+ 19   |   0   | Doors Open. P2 OUT. P6 OUT. P7 OUT. P8 OUT. P9 OUT. P10 OUT. P11 OUT.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-12
+ TOTAL TIME: 69 | BEST POSSIBLE: 55.78
+ ABS GAP:    13.22 | REL GAP: 19.16 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P2 IN. P3 IN. P4 IN. P6 IN. P7 IN. P8 IN. P10 IN.
+  2   |   5   | Doors Open. P10 OUT.
+  3   |   4   | In transit...
+  4   |   3   | Doors Open. P8 OUT.
+  5   |   2   | Doors Open. P7 OUT.
+  6   |   2   | Idle.
+  7   |   2   | In transit...
+  8   |   7   | Doors Open. P1 IN. P5 IN. P9 IN.
+  9   |   7   | In transit...
+ 10   |   2   | In transit...
+ 11   |   0   | Idle.
+ 12   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P9 OUT.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-15
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   8   | Doors Open. P5 OUT.
+  3   |   7   | In transit...
+  4   |   5   | Idle.
+  5   |   5   | Idle.
+  6   |   5   | Idle.
+  7   |   5   | Idle.
+  8   |   5   | Idle.
+  9   |   5   | Doors Open. P4 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-21
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   7   | In transit...
+  3   |   9   | Doors Open. P5 OUT.
+  4   |   1   | Idle.
+  5   |   1   | Idle.
+  6   |   1   | Doors Open. P4 OUT.
+  7   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-19
+ TOTAL TIME: 73 | BEST POSSIBLE: 58.34
+ ABS GAP:    14.66 | REL GAP: 20.09 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P6 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  7   |   8   | Doors Open. P8 OUT.
+  8   |   1   | Doors Open. P7 OUT.
+  9   |   3   | Doors Open. P9 OUT.
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+ 11   |   0   | Idle.
+ 12   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P10 OUT.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-0
+ TOTAL TIME: 41 | BEST POSSIBLE: 41.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   9   | Doors Open. P3 OUT.
+  3   |   5   | Idle.
+  4   |   5   | Idle.
+  5   |   5   | Idle.
+  6   |   5   | Idle.
+  7   |   5   | Idle.
+  8   |   5   | Doors Open. P5 OUT.
+  9   |   3   | Doors Open. P4 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-6
+ TOTAL TIME: 129 | BEST POSSIBLE: 98.00
+ ABS GAP:    31.00 | REL GAP: 24.03 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P6 IN. P8 IN. P12 IN. P13 IN. P14 IN. P17 IN. P19 IN.
+  2   |   4   | Doors Open. P8 OUT.
+  3   |   1   | Doors Open. P12 OUT. P14 OUT. P17 OUT.
+  4   |   3   | Idle.
+  5   |   3   | Doors Open. P6 OUT. P13 OUT. P19 OUT.
+  6   |   7   | Idle.
+  7   |   7   | Doors Open. P1 IN. P7 IN. P10 IN. P11 IN. P15 IN. P18 IN. P20 IN.
+  8   |   7   | In transit...
+  9   |   5   | Doors Open. P18 OUT.
+ 10   |   5   | Idle.
+ 11   |   5   | In transit...
+ 12   |   6   | Doors Open. P15 OUT.
+ 13   |   6   | Idle.
+ 14   |   6   | In transit...
+ 15   |   7   | Idle.
+ 16   |   7   | Idle.
+ 17   |   7   | In transit...
+ 18   |   9   | Doors Open. P7 OUT. P10 OUT. P11 OUT. P20 OUT.
+ 19   |   7   | Doors Open. P2 IN. P3 IN. P4 IN. P5 IN. P9 IN. P16 IN.
+ 20   |   2   | Doors Open. P16 OUT.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P9 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-8
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   5   | Idle.
+  7   |   5   | Doors Open. P3 OUT. P5 OUT.
+  8   |   2   | Doors Open. P4 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-4
+ TOTAL TIME: 127 | BEST POSSIBLE: 96.00
+ ABS GAP:    31.00 | REL GAP: 24.41 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P6 IN. P8 IN. P11 IN. P13 IN. P16 IN. P19 IN. P20 IN.
+  2   |   7   | Idle.
+  3   |   7   | In transit...
+  4   |   9   | Doors Open. P8 OUT. P16 OUT.
+  5   |   6   | Doors Open. P6 OUT. P19 OUT. P20 OUT.
+  6   |   5   | Idle.
+  7   |   5   | Doors Open. P11 OUT. P13 OUT.
+  8   |   5   | In transit...
+  9   |   6   | Idle.
+ 10   |   6   | Idle.
+ 11   |   6   | Idle.
+ 12   |   6   | Idle.
+ 13   |   6   | In transit...
+ 14   |   7   | Doors Open. P7 IN. P9 IN. P10 IN. P12 IN. P14 IN. P17 IN.
+ 15   |   7   | In transit...
+ 16   |   3   | Doors Open. P7 OUT. P9 OUT. P17 OUT.
+ 17   |   2   | Doors Open. P10 OUT. P12 OUT.
+ 18   |   1   | Idle.
+ 19   |   1   | Idle.
+ 20   |   1   | Doors Open. P14 OUT.
+ 21   |   2   | In transit...
+ 22   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P15 IN. P18 IN.
+ 23   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P15 OUT. P18 OUT.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-24
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  3   |   8   | Idle.
+  4   |   8   | Doors Open. P3 OUT.
+  5   |   7   | In transit...
+  6   |   6   | Doors Open. P4 OUT.
+  7   |   6   | In transit...
+  8   |   1   | Doors Open. P5 OUT.
+  9   |   1   | In transit...
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-5
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   7   | Idle.
+  7   |   7   | In transit...
+  8   |   2   | Doors Open. P4 OUT. P5 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-22
+ TOTAL TIME: 131 | BEST POSSIBLE: 96.92
+ ABS GAP:    34.08 | REL GAP: 26.01 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P7 IN. P9 IN. P13 IN. P14 IN. P17 IN. P18 IN. P20 IN.
+  3   |   1   | Idle.
+  4   |   1   | Doors Open. P9 OUT. P13 OUT. P17 OUT. P18 OUT.
+  5   |   1   | In transit...
+  6   |   2   | Doors Open. P7 OUT. P14 OUT.
+  7   |   5   | In transit...
+  8   |   7   | Idle.
+  9   |   7   | Doors Open. P8 IN. P10 IN. P11 IN. P12 IN. P15 IN. P16 IN.
+ 10   |   9   | Doors Open. P20 OUT.
+ 11   |   8   | Doors Open. P12 OUT. P15 OUT. P16 OUT.
+ 12   |   5   | Doors Open. P10 OUT.
+ 13   |   3   | Doors Open. P8 OUT. P11 OUT.
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN. P19 IN.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P19 OUT.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-16
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   6   | Doors Open. P5 OUT.
+  7   |   5   | Idle.
+  8   |   5   | Doors Open. P4 OUT.
+  9   |   4   | Doors Open. P3 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-2
+ TOTAL TIME: 73 | BEST POSSIBLE: 57.06
+ ABS GAP:    15.94 | REL GAP: 21.83 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P7 IN. P8 IN. P9 IN. P10 IN.
+  2   |   8   | Doors Open. P10 OUT.
+  3   |   2   | Doors Open. P8 OUT.
+  4   |   3   | Doors Open. P9 OUT.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN.
+  6   |   2   | Idle.
+  7   |   2   | Idle.
+  8   |   2   | Idle.
+  9   |   2   | In transit...
+ 10   |   1   | Doors Open. P7 OUT.
+ 11   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-20
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   9   | Doors Open. P3 OUT.
+  5   |   3   | Doors Open. P4 OUT.
+  6   |   0   | Doors Open. P1 OUT. P2 OUT. P5 OUT.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-11
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   7   | In transit...
+  5   |   2   | Idle.
+  6   |   2   | Doors Open. P5 OUT.
+  7   |   1   | Idle.
+  8   |   1   | Doors Open. P4 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-1
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | In transit...
+  8   |   8   | Idle.
+  9   |   8   | Doors Open. P4 OUT. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-18
+ TOTAL TIME: 129 | BEST POSSIBLE: 100.00
+ ABS GAP:    29.00 | REL GAP: 22.48 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P8 IN. P9 IN. P10 IN. P12 IN. P15 IN. P17 IN. P18 IN.
+  2   |   8   | Idle.
+  3   |   8   | Doors Open. P8 OUT. P9 OUT. P10 OUT.
+  4   |   8   | In transit...
+  5   |   9   | Doors Open. P15 OUT. P17 OUT.
+  6   |   6   | Doors Open. P12 OUT.
+  7   |   7   | Doors Open. P6 IN. P7 IN. P11 IN. P14 IN. P16 IN. P19 IN.
+  8   |   6   | In transit...
+  9   |   5   | Doors Open. P7 OUT. P11 OUT. P19 OUT.
+ 10   |   4   | Doors Open. P16 OUT.
+ 11   |   1   | Doors Open. P6 OUT. P14 OUT.
+ 12   |   1   | In transit...
+ 13   |   3   | Doors Open. P18 OUT.
+ 14   |   6   | In transit...
+ 15   |   7   | Idle.
+ 16   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P13 IN. P20 IN.
+ 17   |   7   | In transit...
+ 18   |   5   | Idle.
+ 19   |   5   | Idle.
+ 20   |   5   | In transit...
+ 21   |   2   | Idle.
+ 22   |   2   | Doors Open. P20 OUT.
+ 23   |   2   | In transit...
+ 24   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P13 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-14
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   4   | Doors Open. P3 OUT.
+  3   |   3   | Idle.
+  4   |   3   | Doors Open. P5 OUT.
+  5   |   1   | Doors Open. P4 OUT.
+  6   |   0   | Doors Open. P1 OUT. P2 OUT.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-8
+ TOTAL TIME: 71 | BEST POSSIBLE: 61.33
+ ABS GAP:    9.67 | REL GAP: 13.62 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN. P8 IN. P9 IN. P10 IN.
+  2   |   7   | In transit...
+  3   |   3   | Doors Open. P8 OUT.
+  4   |   4   | Idle.
+  5   |   4   | Doors Open. P10 OUT.
+  6   |   4   | Idle.
+  7   |   4   | Idle.
+  8   |   4   | Idle.
+  9   |   4   | Idle.
+ 10   |   4   | Idle.
+ 11   |   4   | Idle.
+ 12   |   4   | Idle.
+ 13   |   4   | Idle.
+ 14   |   4   | In transit...
+ 15   |   9   | Doors Open. P9 OUT.
+ 16   |   7   | Idle.
+ 17   |   7   | Doors Open. P4 IN. P6 IN. P7 IN.
+ 18   |   7   | Idle.
+ 19   |   7   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P7 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-22
+ TOTAL TIME: 65 | BEST POSSIBLE: 55.83
+ ABS GAP:    9.17 | REL GAP: 14.11 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P4 IN. P5 IN. P7 IN. P9 IN.
+  2   |   5   | Doors Open. P4 OUT. P5 OUT.
+  3   |   4   | Doors Open. P7 OUT. P9 OUT.
+  4   |   4   | Idle.
+  5   |   4   | Idle.
+  6   |   4   | Idle.
+  7   |   4   | Idle.
+  8   |   4   | Idle.
+  9   |   4   | In transit...
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P6 IN. P8 IN. P10 IN.
+ 11   |   2   | Doors Open. P6 OUT. P10 OUT.
+ 12   |   2   | In transit...
+ 13   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P8 OUT.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-20
+ TOTAL TIME: 131 | BEST POSSIBLE: 95.00
+ ABS GAP:    36.00 | REL GAP: 27.48 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P3 IN. P4 IN. P5 IN. P7 IN. P11 IN. P12 IN. P17 IN.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | In transit...
+  6   |   0   | Doors Open. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P11 OUT. P12 OUT.
+  7   |   4   | Doors Open. P17 OUT.
+  8   |   7   | Doors Open. P13 IN. P14 IN. P15 IN. P18 IN. P19 IN. P20 IN.
+  9   |   5   | Idle.
+ 10   |   5   | Doors Open. P20 OUT.
+ 11   |   5   | Idle.
+ 12   |   5   | In transit...
+ 13   |   6   | Doors Open. P13 OUT. P14 OUT.
+ 14   |   8   | Doors Open. P15 OUT. P18 OUT.
+ 15   |   9   | Doors Open. P19 OUT.
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Idle.
+ 19   |   7   | Idle.
+ 20   |   7   | Idle.
+ 21   |   7   | Doors Open. P1 IN. P2 IN. P6 IN. P8 IN. P9 IN. P10 IN. P16 IN.
+ 22   |   7   | In transit...
+ 23   |   1   | Doors Open. P16 OUT.
+ 24   |   1   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P6 OUT. P8 OUT. P9 OUT. P10 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-23
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   5   | Idle.
+  3   |   5   | Idle.
+  4   |   5   | Doors Open. P5 OUT.
+  5   |   4   | Doors Open. P4 OUT.
+  6   |   4   | In transit...
+  7   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-12
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   8   | Doors Open. P4 OUT.
+  3   |   3   | Idle.
+  4   |   3   | Doors Open. P5 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-17
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   7   | Idle.
+  7   |   7   | In transit...
+  8   |   2   | Doors Open. P4 OUT. P5 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-16
+ TOTAL TIME: 65 | BEST POSSIBLE: 61.75
+ ABS GAP:    3.25 | REL GAP: 5.00 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  6   |   7   | Idle.
+  7   |   7   | In transit...
+  8   |   8   | Doors Open. P7 OUT. P9 OUT.
+  9   |   8   | In transit...
+ 10   |   9   | Doors Open. P8 OUT. P10 OUT.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Doors Open. P2 IN. P5 IN. P6 IN.
+ 14   |   7   | Idle.
+ 15   |   7   | In transit...
+ 16   |   2   | Doors Open. P5 OUT. P6 OUT.
+ 17   |   1   | Idle.
+ 18   |   1   | Doors Open. P4 OUT.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-3
+ TOTAL TIME: 131 | BEST POSSIBLE: 98.17
+ ABS GAP:    32.83 | REL GAP: 25.06 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P12 IN. P18 IN.
+  3   |   0   | Idle.
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P18 OUT.
+  5   |   0   | In transit...
+  6   |   1   | Idle.
+  7   |   1   | Doors Open. P12 OUT.
+  8   |   1   | In transit...
+  9   |   6   | Idle.
+ 10   |   6   | In transit...
+ 11   |   7   | Doors Open. P6 IN. P7 IN. P8 IN. P9 IN. P13 IN. P14 IN. P19 IN.
+ 12   |   9   | Idle.
+ 13   |   9   | Doors Open. P6 OUT. P9 OUT.
+ 14   |   8   | Idle.
+ 15   |   8   | Doors Open. P14 OUT.
+ 16   |   6   | Idle.
+ 17   |   6   | Doors Open. P7 OUT. P13 OUT.
+ 18   |   6   | In transit...
+ 19   |   5   | Doors Open. P8 OUT. P19 OUT.
+ 20   |   7   | Doors Open. P10 IN. P11 IN. P15 IN. P16 IN. P17 IN. P20 IN.
+ 21   |   7   | In transit...
+ 22   |   4   | Idle.
+ 23   |   4   | Doors Open. P11 OUT. P15 OUT.
+ 24   |   3   | Doors Open. P16 OUT. P20 OUT.
+ 25   |   2   | Doors Open. P10 OUT. P17 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-13
+ TOTAL TIME: 131 | BEST POSSIBLE: 92.00
+ ABS GAP:    39.00 | REL GAP: 29.77 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P13 IN. P14 IN. P15 IN. P17 IN. P19 IN.
+  4   |   5   | Doors Open. P13 OUT.
+  5   |   4   | Doors Open. P14 OUT. P15 OUT. P17 OUT. P19 OUT.
+  6   |   7   | Doors Open. P2 IN. P3 IN. P5 IN. P7 IN. P9 IN. P12 IN. P16 IN.
+  7   |   1   | Idle.
+  8   |   1   | Idle.
+  9   |   1   | Doors Open. P16 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P5 OUT. P7 OUT. P9 OUT. P12 OUT.
+ 11   |   7   | Doors Open. P4 IN. P6 IN. P8 IN. P10 IN. P11 IN. P18 IN. P20 IN.
+ 12   |   9   | Doors Open. P18 OUT.
+ 13   |   7   | In transit...
+ 14   |   6   | Doors Open. P20 OUT.
+ 15   |   1   | Idle.
+ 16   |   1   | In transit...
+ 17   |   0   | Doors Open. P4 OUT. P6 OUT. P8 OUT. P10 OUT. P11 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-15
+ TOTAL TIME: 67 | BEST POSSIBLE: 56.33
+ ABS GAP:    10.67 | REL GAP: 15.93 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P4 IN. P5 IN. P6 IN. P7 IN. P8 IN. P9 IN.
+  3   |   4   | Doors Open. P9 OUT.
+  4   |   4   | Idle.
+  5   |   4   | Idle.
+  6   |   4   | Idle.
+  7   |   4   | In transit...
+  8   |   3   | Idle.
+  9   |   3   | Idle.
+ 10   |   3   | Idle.
+ 11   |   3   | Idle.
+ 12   |   3   | Idle.
+ 13   |   3   | Idle.
+ 14   |   3   | Idle.
+ 15   |   3   | Doors Open. P7 OUT.
+ 16   |   6   | Doors Open. P8 OUT.
+ 17   |   6   | In transit...
+ 18   |   7   | Doors Open. P2 IN. P3 IN. P10 IN.
+ 19   |   4   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P10 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-5
+ TOTAL TIME: 67 | BEST POSSIBLE: 62.00
+ ABS GAP:    5.00 | REL GAP: 7.46 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P3 IN. P6 IN. P7 IN. P9 IN.
+  4   |   6   | Idle.
+  5   |   6   | Doors Open. P7 OUT. P9 OUT.
+  6   |   8   | Doors Open. P6 OUT.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Doors Open. P1 IN. P2 IN. P4 IN. P5 IN. P8 IN. P10 IN.
+ 10   |   3   | Idle.
+ 11   |   3   | Idle.
+ 12   |   3   | Doors Open. P5 OUT.
+ 13   |   2   | Doors Open. P4 OUT. P8 OUT.
+ 14   |   1   | Doors Open. P10 OUT.
+ 15   |   1   | Idle.
+ 16   |   1   | In transit...
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-14
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   7   | In transit...
+  6   |   8   | Doors Open. P5 OUT.
+  7   |   6   | Doors Open. P4 OUT.
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-8
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   9   | Doors Open. P4 OUT.
+  3   |   4   | Idle.
+  4   |   4   | Doors Open. P5 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-11
+ TOTAL TIME: 73 | BEST POSSIBLE: 61.00
+ ABS GAP:    12.00 | REL GAP: 16.44 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Doors Open. P7 IN. P8 IN. P10 IN.
+  8   |   4   | Idle.
+  9   |   4   | Doors Open. P10 OUT.
+ 10   |   4   | Idle.
+ 11   |   4   | In transit...
+ 12   |   2   | Doors Open. P8 OUT.
+ 13   |   9   | Doors Open. P7 OUT.
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN. P9 IN.
+ 17   |   1   | Idle.
+ 18   |   1   | In transit...
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P9 OUT.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-8
+ TOTAL TIME: 137 | BEST POSSIBLE: 90.81
+ ABS GAP:    46.19 | REL GAP: 33.72 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P11 IN. P17 IN. P20 IN.
+  3   |   1   | Doors Open. P20 OUT.
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P11 OUT. P17 OUT.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P13 IN. P14 IN. P15 IN. P16 IN. P18 IN. P19 IN.
+  7   |   8   | Doors Open. P14 OUT.
+  8   |   8   | In transit...
+  9   |   9   | Doors Open. P13 OUT.
+ 10   |   5   | Idle.
+ 11   |   5   | Idle.
+ 12   |   5   | Doors Open. P16 OUT.
+ 13   |   2   | Idle.
+ 14   |   2   | Idle.
+ 15   |   2   | Idle.
+ 16   |   2   | Doors Open. P19 OUT.
+ 17   |   2   | In transit...
+ 18   |   6   | Doors Open. P15 OUT.
+ 19   |   6   | In transit...
+ 20   |   7   | Doors Open. P5 IN. P6 IN. P7 IN. P8 IN. P9 IN. P10 IN. P12 IN.
+ 21   |   0   | Doors Open. P5 OUT. P6 OUT. P7 OUT. P8 OUT. P9 OUT. P10 OUT. P12 OUT. P18 OUT.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-21
+ TOTAL TIME: 71 | BEST POSSIBLE: 62.00
+ ABS GAP:    9.00 | REL GAP: 12.68 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P4 IN. P5 IN. P6 IN. P8 IN. P9 IN.
+  2   |   8   | Idle.
+  3   |   8   | Idle.
+  4   |   8   | Doors Open. P9 OUT.
+  5   |   4   | Doors Open. P5 OUT. P8 OUT.
+  6   |   7   | Doors Open. P3 IN. P7 IN. P10 IN.
+  7   |   5   | Idle.
+  8   |   5   | Doors Open. P4 OUT.
+  9   |   3   | Doors Open. P6 OUT.
+ 10   |   1   | Idle.
+ 11   |   1   | Idle.
+ 12   |   1   | Idle.
+ 13   |   1   | Idle.
+ 14   |   1   | Idle.
+ 15   |   1   | Idle.
+ 16   |   1   | Idle.
+ 17   |   1   | Doors Open. P7 OUT.
+ 18   |   1   | Idle.
+ 19   |   1   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P10 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-20
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  9   |   5   | Doors Open. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-18
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   9   | Doors Open. P5 OUT.
+  5   |   9   | In transit...
+  6   |   5   | Doors Open. P3 OUT.
+  7   |   5   | In transit...
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P4 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-18
+ TOTAL TIME: 69 | BEST POSSIBLE: 62.37
+ ABS GAP:    6.63 | REL GAP: 9.60 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P2 IN. P4 IN. P5 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  3   |   8   | Doors Open. P7 OUT.
+  4   |   8   | In transit...
+  5   |   9   | Doors Open. P8 OUT.
+  6   |   5   | Idle.
+  7   |   5   | Doors Open. P10 OUT.
+  8   |   7   | Doors Open. P1 IN. P3 IN. P6 IN.
+  9   |   7   | In transit...
+ 10   |   5   | In transit...
+ 11   |   1   | Doors Open. P9 OUT.
+ 12   |   1   | Idle.
+ 13   |   1   | Idle.
+ 14   |   1   | Idle.
+ 15   |   1   | Idle.
+ 16   |   1   | In transit...
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-7
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  7   |   9   | Doors Open. P5 OUT.
+  8   |   5   | Doors Open. P4 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-16
+ TOTAL TIME: 131 | BEST POSSIBLE: 90.59
+ ABS GAP:    40.41 | REL GAP: 30.85 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P3 IN. P6 IN. P9 IN. P13 IN. P17 IN. P18 IN. P19 IN.
+  5   |   5   | Doors Open. P13 OUT. P18 OUT. P19 OUT.
+  6   |   0   | Doors Open. P6 OUT. P9 OUT. P17 OUT.
+  7   |   7   | Doors Open. P4 IN. P5 IN. P7 IN. P8 IN. P16 IN. P20 IN.
+  8   |   7   | In transit...
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P8 OUT.
+ 11   |   0   | Idle.
+ 12   |   0   | In transit...
+ 13   |   3   | Doors Open. P16 OUT. P20 OUT.
+ 14   |   3   | Idle.
+ 15   |   3   | Idle.
+ 16   |   3   | Idle.
+ 17   |   3   | In transit...
+ 18   |   7   | Idle.
+ 19   |   7   | Doors Open. P1 IN. P2 IN. P10 IN. P11 IN. P12 IN. P14 IN. P15 IN.
+ 20   |   3   | In transit...
+ 21   |   0   | Doors Open. P1 OUT. P2 OUT. P10 OUT. P11 OUT. P12 OUT. P14 OUT. P15 OUT.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-17
+ TOTAL TIME: 129 | BEST POSSIBLE: 97.07
+ ABS GAP:    31.93 | REL GAP: 24.75 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P7 IN. P8 IN. P9 IN. P13 IN. P14 IN. P16 IN. P19 IN.
+  2   |   7   | In transit...
+  3   |   2   | Idle.
+  4   |   2   | Idle.
+  5   |   2   | Doors Open. P8 OUT. P13 OUT. P19 OUT.
+  6   |   2   | In transit...
+  7   |   1   | Doors Open. P7 OUT. P9 OUT. P14 OUT. P16 OUT.
+  8   |   3   | In transit...
+  9   |   7   | Doors Open. P2 IN. P6 IN. P10 IN. P12 IN. P15 IN. P17 IN. P20 IN.
+ 10   |   3   | Doors Open. P20 OUT.
+ 11   |   3   | In transit...
+ 12   |   4   | Doors Open. P10 OUT. P15 OUT.
+ 13   |   4   | In transit...
+ 14   |   5   | Doors Open. P12 OUT. P17 OUT.
+ 15   |   6   | In transit...
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Idle.
+ 19   |   7   | In transit...
+ 20   |   8   | Doors Open. P6 OUT.
+ 21   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P5 IN. P11 IN. P18 IN.
+ 22   |   4   | Idle.
+ 23   |   4   | In transit...
+ 24   |   3   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P11 OUT. P18 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-14
+ TOTAL TIME: 137 | BEST POSSIBLE: 96.00
+ ABS GAP:    41.00 | REL GAP: 29.93 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P7 IN. P9 IN. P10 IN. P12 IN. P17 IN. P18 IN.
+  5   |   7   | In transit...
+  6   |   9   | Doors Open. P9 OUT.
+  7   |   5   | Idle.
+  8   |   5   | Idle.
+  9   |   5   | Doors Open. P10 OUT.
+ 10   |   5   | Idle.
+ 11   |   5   | Idle.
+ 12   |   5   | Idle.
+ 13   |   5   | In transit...
+ 14   |   3   | Doors Open. P12 OUT. P17 OUT.
+ 15   |   6   | Doors Open. P7 OUT. P18 OUT.
+ 16   |   7   | Doors Open. P1 IN. P4 IN. P5 IN. P11 IN. P13 IN. P14 IN. P15 IN.
+ 17   |   0   | Doors Open. P1 OUT. P4 OUT. P5 OUT. P11 OUT. P13 OUT. P14 OUT.
+ 18   |   4   | Doors Open. P15 OUT.
+ 19   |   7   | Doors Open. P2 IN. P3 IN. P6 IN. P8 IN. P16 IN. P19 IN. P20 IN.
+ 20   |   2   | Doors Open. P6 OUT. P16 OUT.
+ 21   |   1   | Doors Open. P20 OUT.
+ 22   |   0   | Idle.
+ 23   |   0   | Doors Open. P2 OUT. P3 OUT. P8 OUT. P19 OUT.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-7
+ TOTAL TIME: 73 | BEST POSSIBLE: 61.00
+ ABS GAP:    12.00 | REL GAP: 16.44 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P9 IN. P10 IN.
+  3   |   7   | In transit...
+  4   |   9   | Doors Open. P9 OUT.
+  5   |   6   | Doors Open. P10 OUT.
+  6   |   3   | Idle.
+  7   |   3   | Doors Open. P7 OUT.
+  8   |   7   | Doors Open. P1 IN. P6 IN. P8 IN.
+  9   |   2   | Doors Open. P8 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 11   |   0   | Idle.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-10
+ TOTAL TIME: 121 | BEST POSSIBLE: 87.20
+ ABS GAP:    33.80 | REL GAP: 27.93 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P9 IN. P10 IN. P11 IN. P13 IN. P18 IN. P19 IN.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | In transit...
+  7   |   9   | Doors Open. P9 OUT. P11 OUT. P18 OUT.
+  8   |   8   | Doors Open. P10 OUT. P13 OUT. P19 OUT.
+  9   |   7   | Doors Open. P6 IN. P8 IN. P12 IN. P14 IN. P15 IN. P16 IN. P20 IN.
+ 10   |   2   | Doors Open. P8 OUT.
+ 11   |   3   | Doors Open. P6 OUT. P12 OUT. P16 OUT.
+ 12   |   5   | Doors Open. P14 OUT. P15 OUT. P20 OUT.
+ 13   |   7   | Idle.
+ 14   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P17 IN.
+ 15   |   4   | Idle.
+ 16   |   4   | Idle.
+ 17   |   4   | Doors Open. P7 OUT. P17 OUT.
+ 18   |   4   | Idle.
+ 19   |   4   | In transit...
+ 20   |   3   | Idle.
+ 21   |   3   | Idle.
+ 22   |   3   | Idle.
+ 23   |   3   | Idle.
+ 24   |   3   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-7
+ TOTAL TIME: 137 | BEST POSSIBLE: 89.91
+ ABS GAP:    47.09 | REL GAP: 34.37 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P9 IN. P14 IN. P15 IN. P16 IN. P17 IN. P19 IN. P20 IN.
+  2   |   8   | Doors Open. P20 OUT.
+  3   |   8   | In transit...
+  4   |   9   | Doors Open. P15 OUT.
+  5   |   8   | Idle.
+  6   |   8   | In transit...
+  7   |   4   | Doors Open. P14 OUT. P17 OUT.
+  8   |   4   | Idle.
+  9   |   4   | In transit...
+ 10   |   3   | Doors Open. P16 OUT.
+ 11   |   5   | Doors Open. P19 OUT.
+ 12   |   7   | Idle.
+ 13   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P7 IN. P10 IN. P18 IN.
+ 14   |   1   | Doors Open. P18 OUT.
+ 15   |   1   | In transit...
+ 16   |   0   | Doors Open. P1 OUT. P3 OUT. P4 OUT. P7 OUT. P9 OUT. P10 OUT.
+ 17   |   1   | In transit...
+ 18   |   7   | Idle.
+ 19   |   7   | Doors Open. P2 IN. P5 IN. P6 IN. P8 IN. P11 IN. P12 IN. P13 IN.
+ 20   |   2   | Idle.
+ 21   |   2   | Doors Open. P13 OUT.
+ 22   |   2   | Idle.
+ 23   |   2   | Idle.
+ 24   |   2   | In transit...
+ 25   |   0   | Doors Open. P2 OUT. P5 OUT. P6 OUT. P8 OUT. P11 OUT. P12 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-19
+ TOTAL TIME: 137 | BEST POSSIBLE: 96.14
+ ABS GAP:    40.86 | REL GAP: 29.82 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P4 IN. P7 IN. P11 IN. P12 IN. P13 IN.
+  5   |   1   | Idle.
+  6   |   1   | Idle.
+  7   |   1   | Idle.
+  8   |   1   | Doors Open. P7 OUT. P11 OUT. P12 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P4 OUT. P13 OUT.
+ 10   |   2   | Idle.
+ 11   |   2   | Idle.
+ 12   |   2   | Idle.
+ 13   |   2   | Idle.
+ 14   |   2   | Idle.
+ 15   |   2   | In transit...
+ 16   |   7   | Doors Open. P6 IN. P8 IN. P9 IN. P14 IN. P16 IN. P18 IN. P19 IN.
+ 17   |   6   | Doors Open. P16 OUT.
+ 18   |   2   | Doors Open. P6 OUT. P8 OUT. P14 OUT. P18 OUT.
+ 19   |   2   | In transit...
+ 20   |   3   | Doors Open. P9 OUT.
+ 21   |   3   | In transit...
+ 22   |   7   | Doors Open. P3 IN. P5 IN. P10 IN. P15 IN. P17 IN. P20 IN.
+ 23   |   9   | Doors Open. P10 OUT. P15 OUT.
+ 24   |   8   | Doors Open. P17 OUT.
+ 25   |   0   | Doors Open. P3 OUT. P5 OUT. P19 OUT. P20 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-15
+ TOTAL TIME: 135 | BEST POSSIBLE: 94.64
+ ABS GAP:    40.36 | REL GAP: 29.89 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P4 IN. P6 IN. P8 IN. P9 IN. P13 IN. P14 IN. P16 IN.
+  6   |   6   | Doors Open. P16 OUT.
+  7   |   6   | In transit...
+  8   |   4   | Idle.
+  9   |   4   | Idle.
+ 10   |   4   | Doors Open. P13 OUT.
+ 11   |   0   | Doors Open. P4 OUT. P6 OUT. P8 OUT. P9 OUT. P14 OUT.
+ 12   |   2   | Idle.
+ 13   |   2   | In transit...
+ 14   |   7   | Doors Open. P1 IN. P2 IN. P7 IN. P10 IN. P11 IN. P15 IN. P18 IN.
+ 15   |   2   | Doors Open. P18 OUT.
+ 16   |   0   | Idle.
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P7 OUT. P10 OUT. P11 OUT. P15 OUT.
+ 18   |   7   | Doors Open. P3 IN. P5 IN. P12 IN. P17 IN. P19 IN. P20 IN.
+ 19   |   7   | In transit...
+ 20   |   2   | In transit...
+ 21   |   1   | Idle.
+ 22   |   1   | Doors Open. P19 OUT. P20 OUT.
+ 23   |   0   | Doors Open. P3 OUT. P5 OUT. P12 OUT. P17 OUT.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-7
+ TOTAL TIME: 41 | BEST POSSIBLE: 41.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   9   | Doors Open. P5 OUT.
+  3   |   4   | Doors Open. P4 OUT.
+  4   |   2   | Doors Open. P3 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-16
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   8   | Doors Open. P4 OUT.
+  3   |   8   | In transit...
+  4   |   9   | Doors Open. P5 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-10
+ TOTAL TIME: 65 | BEST POSSIBLE: 59.00
+ ABS GAP:    6.00 | REL GAP: 9.23 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P5 IN. P6 IN. P7 IN. P10 IN.
+  2   |   6   | Idle.
+  3   |   6   | Doors Open. P6 OUT. P7 OUT.
+  4   |   5   | Doors Open. P5 OUT.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P8 IN. P9 IN.
+  6   |   7   | Idle.
+  7   |   7   | In transit...
+  8   |   2   | Doors Open. P8 OUT.
+  9   |   2   | In transit...
+ 10   |   1   | Doors Open. P4 OUT. P9 OUT. P10 OUT.
+ 11   |   0   | Idle.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-24
+ TOTAL TIME: 125 | BEST POSSIBLE: 96.00
+ ABS GAP:    29.00 | REL GAP: 23.20 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P7 IN. P9 IN. P12 IN. P15 IN. P16 IN. P18 IN. P20 IN.
+  5   |   6   | Doors Open. P7 OUT. P16 OUT. P20 OUT.
+  6   |   6   | In transit...
+  7   |   9   | Doors Open. P12 OUT.
+  8   |   9   | Idle.
+  9   |   9   | In transit...
+ 10   |   8   | Doors Open. P9 OUT. P18 OUT.
+ 11   |   7   | Doors Open. P6 IN. P8 IN. P10 IN. P11 IN. P14 IN. P19 IN.
+ 12   |   2   | Idle.
+ 13   |   2   | Doors Open. P6 OUT. P8 OUT.
+ 14   |   3   | Idle.
+ 15   |   3   | Doors Open. P10 OUT. P15 OUT.
+ 16   |   5   | Doors Open. P11 OUT. P14 OUT. P19 OUT.
+ 17   |   5   | In transit...
+ 18   |   6   | In transit...
+ 19   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P13 IN. P17 IN.
+ 20   |   5   | In transit...
+ 21   |   2   | In transit...
+ 22   |   1   | Doors Open. P13 OUT.
+ 23   |   1   | In transit...
+ 24   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P17 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-7
+ TOTAL TIME: 65 | BEST POSSIBLE: 59.00
+ ABS GAP:    6.00 | REL GAP: 9.23 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P2 IN. P6 IN. P7 IN. P9 IN.
+  2   |   6   | Idle.
+  3   |   6   | Doors Open. P9 OUT.
+  4   |   5   | Doors Open. P6 OUT. P7 OUT.
+  5   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P5 IN. P8 IN. P10 IN.
+  6   |   4   | Doors Open. P8 OUT.
+  7   |   2   | Doors Open. P5 OUT. P10 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT.
+ 10   |   0   | Idle.
+ 11   |   0   | Idle.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-24
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   5   | Idle.
+  6   |   5   | Doors Open. P4 OUT.
+  7   |   5   | In transit...
+  8   |   4   | Doors Open. P5 OUT.
+  9   |   4   | In transit...
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-2
+ TOTAL TIME: 67 | BEST POSSIBLE: 57.00
+ ABS GAP:    10.00 | REL GAP: 14.93 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN. P6 IN. P7 IN. P10 IN.
+  7   |   7   | In transit...
+  8   |   6   | Idle.
+  9   |   6   | Doors Open. P5 OUT. P10 OUT.
+ 10   |   5   | In transit...
+ 11   |   3   | Doors Open. P6 OUT.
+ 12   |   7   | Doors Open. P4 IN. P8 IN. P9 IN.
+ 13   |   2   | Doors Open. P4 OUT. P8 OUT. P9 OUT.
+ 14   |   2   | In transit...
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P7 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-9
+ TOTAL TIME: 69 | BEST POSSIBLE: 59.00
+ ABS GAP:    10.00 | REL GAP: 14.49 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P5 IN. P6 IN. P7 IN. P9 IN. P10 IN.
+  2   |   7   | In transit...
+  3   |   8   | Doors Open. P10 OUT.
+  4   |   4   | Doors Open. P7 OUT.
+  5   |   3   | Doors Open. P9 OUT.
+  6   |   7   | Doors Open. P3 IN. P4 IN. P8 IN.
+  7   |   0   | Idle.
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P8 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+ 11   |   0   | Idle.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-19
+ TOTAL TIME: 71 | BEST POSSIBLE: 57.86
+ ABS GAP:    13.14 | REL GAP: 18.51 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P2 IN. P4 IN. P5 IN. P6 IN. P7 IN. P9 IN. P10 IN.
+  2   |   6   | Doors Open. P5 OUT.
+  3   |   5   | Doors Open. P4 OUT.
+  4   |   8   | Doors Open. P9 OUT.
+  5   |   8   | In transit...
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Doors Open. P1 IN. P3 IN. P8 IN.
+ 10   |   4   | Doors Open. P8 OUT.
+ 11   |   3   | Doors Open. P6 OUT.
+ 12   |   2   | Idle.
+ 13   |   2   | Idle.
+ 14   |   2   | Doors Open. P10 OUT.
+ 15   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P7 OUT.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-18
+ TOTAL TIME: 65 | BEST POSSIBLE: 57.00
+ ABS GAP:    8.00 | REL GAP: 12.31 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN. P8 IN. P9 IN. P10 IN.
+ 11   |   4   | Idle.
+ 12   |   4   | Idle.
+ 13   |   4   | Doors Open. P8 OUT. P9 OUT.
+ 14   |   5   | Doors Open. P10 OUT.
+ 15   |   7   | Idle.
+ 16   |   7   | Doors Open. P4 IN. P6 IN. P7 IN.
+ 17   |   1   | Doors Open. P4 OUT. P7 OUT.
+ 18   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P5 OUT. P6 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-6
+ TOTAL TIME: 135 | BEST POSSIBLE: 87.00
+ ABS GAP:    48.00 | REL GAP: 35.56 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P13 IN. P14 IN. P15 IN. P16 IN. P18 IN. P19 IN. P20 IN.
+  4   |   6   | Idle.
+  5   |   6   | Idle.
+  6   |   6   | Idle.
+  7   |   6   | Idle.
+  8   |   6   | In transit...
+  9   |   5   | Doors Open. P15 OUT.
+ 10   |   3   | In transit...
+ 11   |   1   | Idle.
+ 12   |   1   | Doors Open. P16 OUT. P18 OUT.
+ 13   |   1   | In transit...
+ 14   |   2   | Doors Open. P19 OUT.
+ 15   |   4   | Doors Open. P13 OUT. P14 OUT.
+ 16   |   8   | Doors Open. P20 OUT.
+ 17   |   7   | Doors Open. P3 IN. P4 IN. P6 IN. P8 IN. P10 IN. P12 IN.
+ 18   |   0   | Doors Open. P3 OUT. P4 OUT. P6 OUT. P8 OUT. P10 OUT. P12 OUT.
+ 19   |   0   | In transit...
+ 20   |   1   | In transit...
+ 21   |   7   | Doors Open. P1 IN. P2 IN. P5 IN. P7 IN. P9 IN. P11 IN. P17 IN.
+ 22   |   7   | Idle.
+ 23   |   7   | In transit...
+ 24   |   1   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P5 OUT. P7 OUT. P9 OUT. P11 OUT. P17 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-21
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   7   | In transit...
+  3   |   3   | Doors Open. P3 OUT.
+  4   |   3   | Idle.
+  5   |   3   | Idle.
+  6   |   3   | Idle.
+  7   |   3   | Idle.
+  8   |   3   | In transit...
+  9   |   1   | Doors Open. P4 OUT. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-19
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  3   |   7   | In transit...
+  4   |   9   | Doors Open. P5 OUT.
+  5   |   6   | Doors Open. P4 OUT.
+  6   |   6   | Idle.
+  7   |   6   | In transit...
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-9
+ TOTAL TIME: 129 | BEST POSSIBLE: 98.00
+ ABS GAP:    31.00 | REL GAP: 24.03 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P7 IN. P8 IN. P11 IN. P15 IN. P16 IN. P18 IN. P20 IN.
+  2   |   8   | Idle.
+  3   |   8   | Idle.
+  4   |   8   | Doors Open. P8 OUT.
+  5   |   8   | In transit...
+  6   |   9   | Idle.
+  7   |   9   | Doors Open. P7 OUT. P16 OUT.
+  8   |   4   | Doors Open. P11 OUT. P15 OUT. P20 OUT.
+  9   |   4   | In transit...
+ 10   |   7   | Idle.
+ 11   |   7   | Doors Open. P10 IN. P12 IN. P13 IN. P14 IN. P17 IN. P19 IN.
+ 12   |   5   | Doors Open. P12 OUT. P18 OUT.
+ 13   |   2   | In transit...
+ 14   |   1   | Idle.
+ 15   |   1   | Doors Open. P13 OUT. P14 OUT. P17 OUT.
+ 16   |   2   | Idle.
+ 17   |   2   | Idle.
+ 18   |   2   | Idle.
+ 19   |   2   | Idle.
+ 20   |   2   | Doors Open. P10 OUT. P19 OUT.
+ 21   |   5   | In transit...
+ 22   |   7   | Idle.
+ 23   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN. P9 IN.
+ 24   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P9 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-7
+ TOTAL TIME: 125 | BEST POSSIBLE: 98.05
+ ABS GAP:    26.95 | REL GAP: 21.56 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P7 IN. P10 IN. P12 IN. P13 IN. P15 IN. P18 IN. P19 IN.
+  2   |   8   | Doors Open. P13 OUT. P15 OUT. P19 OUT.
+  3   |   8   | Idle.
+  4   |   8   | In transit...
+  5   |   9   | Doors Open. P7 OUT. P10 OUT. P12 OUT. P18 OUT.
+  6   |   7   | Doors Open. P6 IN. P8 IN. P9 IN. P11 IN. P14 IN. P17 IN. P20 IN.
+  7   |   5   | In transit...
+  8   |   3   | Idle.
+  9   |   3   | Doors Open. P14 OUT.
+ 10   |   2   | Doors Open. P9 OUT. P17 OUT.
+ 11   |   1   | Doors Open. P6 OUT. P20 OUT.
+ 12   |   4   | Doors Open. P11 OUT.
+ 13   |   5   | Idle.
+ 14   |   5   | Doors Open. P8 OUT.
+ 15   |   6   | Idle.
+ 16   |   6   | Idle.
+ 17   |   6   | Idle.
+ 18   |   6   | In transit...
+ 19   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P16 IN.
+ 20   |   6   | Idle.
+ 21   |   6   | Idle.
+ 22   |   6   | Idle.
+ 23   |   6   | Idle.
+ 24   |   6   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P16 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-17
+ TOTAL TIME: 71 | BEST POSSIBLE: 61.33
+ ABS GAP:    9.67 | REL GAP: 13.62 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P4 IN. P5 IN. P6 IN. P8 IN. P9 IN. P10 IN.
+  3   |   7   | Idle.
+  4   |   7   | In transit...
+  5   |   8   | Doors Open. P4 OUT.
+  6   |   5   | Doors Open. P9 OUT.
+  7   |   4   | Doors Open. P5 OUT.
+  8   |   7   | Doors Open. P2 IN. P3 IN. P7 IN.
+  9   |   2   | Doors Open. P7 OUT.
+ 10   |   2   | Idle.
+ 11   |   2   | Idle.
+ 12   |   2   | In transit...
+ 13   |   1   | Doors Open. P6 OUT. P8 OUT.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P10 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-24
+ TOTAL TIME: 131 | BEST POSSIBLE: 97.14
+ ABS GAP:    33.86 | REL GAP: 25.85 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P4 IN. P6 IN. P7 IN. P8 IN. P10 IN. P17 IN.
+  6   |   2   | Doors Open. P17 OUT.
+  7   |   2   | In transit...
+  8   |   0   | Doors Open. P1 OUT. P4 OUT. P6 OUT. P7 OUT. P8 OUT. P10 OUT.
+  9   |   4   | In transit...
+ 10   |   5   | Idle.
+ 11   |   5   | Idle.
+ 12   |   5   | Idle.
+ 13   |   5   | Idle.
+ 14   |   5   | In transit...
+ 15   |   7   | Doors Open. P13 IN. P14 IN. P15 IN. P16 IN. P19 IN. P20 IN.
+ 16   |   4   | Idle.
+ 17   |   4   | Idle.
+ 18   |   4   | Doors Open. P20 OUT.
+ 19   |   5   | Doors Open. P14 OUT. P19 OUT.
+ 20   |   6   | Doors Open. P13 OUT. P15 OUT.
+ 21   |   7   | Idle.
+ 22   |   7   | In transit...
+ 23   |   9   | Doors Open. P16 OUT.
+ 24   |   7   | Doors Open. P2 IN. P3 IN. P5 IN. P9 IN. P11 IN. P12 IN. P18 IN.
+ 25   |   0   | Doors Open. P2 OUT. P3 OUT. P5 OUT. P9 OUT. P11 OUT. P12 OUT. P18 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-20
+ TOTAL TIME: 125 | BEST POSSIBLE: 97.00
+ ABS GAP:    28.00 | REL GAP: 22.40 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P7 IN. P9 IN. P11 IN. P12 IN. P13 IN. P15 IN. P16 IN.
+  3   |   6   | In transit...
+  4   |   4   | In transit...
+  5   |   2   | Doors Open. P7 OUT. P13 OUT.
+  6   |   1   | Doors Open. P9 OUT. P11 OUT. P12 OUT. P16 OUT.
+  7   |   5   | Doors Open. P15 OUT.
+  8   |   5   | In transit...
+  9   |   7   | Doors Open. P6 IN. P8 IN. P10 IN. P14 IN. P18 IN. P19 IN. P20 IN.
+ 10   |   7   | In transit...
+ 11   |   6   | Doors Open. P10 OUT. P19 OUT.
+ 12   |   6   | In transit...
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | In transit...
+ 17   |   8   | Doors Open. P6 OUT. P8 OUT. P20 OUT.
+ 18   |   9   | Doors Open. P14 OUT. P18 OUT.
+ 19   |   8   | Idle.
+ 20   |   8   | Idle.
+ 21   |   8   | Idle.
+ 22   |   8   | Idle.
+ 23   |   8   | In transit...
+ 24   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P17 IN.
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P17 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-1
+ TOTAL TIME: 63 | BEST POSSIBLE: 57.00
+ ABS GAP:    6.00 | REL GAP: 9.52 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Idle.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | Doors Open. P4 IN. P8 IN. P9 IN. P10 IN.
+ 17   |   4   | Doors Open. P8 OUT.
+ 18   |   5   | Doors Open. P9 OUT. P10 OUT.
+ 19   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN. P6 IN. P7 IN.
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P7 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-1
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  7   |   6   | Doors Open. P4 OUT. P5 OUT.
+  8   |   4   | Doors Open. P3 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-15
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   4   | Doors Open. P3 OUT.
+  3   |   3   | Idle.
+  4   |   3   | Doors Open. P5 OUT.
+  5   |   1   | Doors Open. P4 OUT.
+  6   |   0   | Doors Open. P1 OUT. P2 OUT.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-8
+ TOTAL TIME: 133 | BEST POSSIBLE: 97.00
+ ABS GAP:    36.00 | REL GAP: 27.07 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P10 IN. P15 IN.
+  3   |   6   | In transit...
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P10 OUT. P15 OUT.
+  5   |   7   | Doors Open. P6 IN. P9 IN. P12 IN. P13 IN. P16 IN. P17 IN. P18 IN.
+  6   |   4   | Doors Open. P12 OUT. P18 OUT.
+  7   |   4   | In transit...
+  8   |   6   | Idle.
+  9   |   6   | Doors Open. P13 OUT. P17 OUT.
+ 10   |   6   | Idle.
+ 11   |   6   | Idle.
+ 12   |   6   | Idle.
+ 13   |   6   | In transit...
+ 14   |   8   | Doors Open. P16 OUT.
+ 15   |   8   | In transit...
+ 16   |   9   | Doors Open. P9 OUT.
+ 17   |   7   | Doors Open. P7 IN. P8 IN. P11 IN. P14 IN. P19 IN. P20 IN.
+ 18   |   3   | Doors Open. P6 OUT. P11 OUT.
+ 19   |   1   | Doors Open. P8 OUT. P19 OUT.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Doors Open. P7 OUT. P14 OUT. P20 OUT.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-9
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | In transit...
+  9   |   1   | Doors Open. P4 OUT. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-10
+ TOTAL TIME: 69 | BEST POSSIBLE: 56.16
+ ABS GAP:    12.84 | REL GAP: 18.61 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P5 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  3   |   5   | Idle.
+  4   |   5   | Idle.
+  5   |   5   | Doors Open. P8 OUT.
+  6   |   4   | Idle.
+  7   |   4   | Doors Open. P9 OUT.
+  8   |   2   | Doors Open. P7 OUT. P10 OUT.
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P3 IN. P4 IN. P6 IN.
+ 11   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | Idle.
+ 15   |   0   | Idle.
+ 16   |   0   | Idle.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-3
+ TOTAL TIME: 71 | BEST POSSIBLE: 63.30
+ ABS GAP:    7.70 | REL GAP: 10.84 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P5 IN. P6 IN. P7 IN. P8 IN. P10 IN.
+ 11   |   6   | Doors Open. P6 OUT.
+ 12   |   8   | Doors Open. P8 OUT.
+ 13   |   9   | Doors Open. P10 OUT.
+ 14   |   7   | Doors Open. P3 IN. P4 IN. P9 IN.
+ 15   |   5   | Doors Open. P5 OUT.
+ 16   |   2   | Doors Open. P9 OUT.
+ 17   |   2   | In transit...
+ 18   |   1   | Doors Open. P4 OUT. P7 OUT.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-23
+ TOTAL TIME: 69 | BEST POSSIBLE: 57.14
+ ABS GAP:    11.86 | REL GAP: 17.18 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Doors Open. P3 IN. P5 IN. P6 IN. P7 IN. P8 IN. P9 IN. P10 IN.
+  9   |   3   | Idle.
+ 10   |   3   | Doors Open. P8 OUT. P10 OUT.
+ 11   |   5   | Doors Open. P6 OUT.
+ 12   |   7   | Doors Open. P1 IN. P2 IN. P4 IN.
+ 13   |   7   | In transit...
+ 14   |   2   | Doors Open. P4 OUT.
+ 15   |   2   | In transit...
+ 16   |   1   | Doors Open. P7 OUT. P9 OUT.
+ 17   |   1   | Idle.
+ 18   |   1   | Idle.
+ 19   |   1   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P5 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-2
+ TOTAL TIME: 133 | BEST POSSIBLE: 96.66
+ ABS GAP:    36.34 | REL GAP: 27.32 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P15 IN.
+  2   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P15 OUT.
+  3   |   6   | In transit...
+  4   |   7   | Doors Open. P8 IN. P9 IN. P13 IN. P14 IN. P16 IN. P20 IN.
+  5   |   8   | Doors Open. P20 OUT.
+  6   |   6   | Idle.
+  7   |   6   | Doors Open. P8 OUT. P16 OUT.
+  8   |   6   | In transit...
+  9   |   3   | Doors Open. P14 OUT.
+ 10   |   5   | Doors Open. P9 OUT. P13 OUT.
+ 11   |   7   | Idle.
+ 12   |   7   | Doors Open. P6 IN. P10 IN. P11 IN. P12 IN. P17 IN. P18 IN. P19 IN.
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Idle.
+ 19   |   7   | Idle.
+ 20   |   7   | In transit...
+ 21   |   3   | In transit...
+ 22   |   2   | Idle.
+ 23   |   2   | Doors Open. P10 OUT. P11 OUT. P18 OUT.
+ 24   |   1   | Doors Open. P6 OUT. P17 OUT. P19 OUT.
+ 25   |   0   | Doors Open. P12 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-12
+ TOTAL TIME: 67 | BEST POSSIBLE: 60.70
+ ABS GAP:    6.30 | REL GAP: 9.41 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P4 IN. P5 IN. P6 IN. P7 IN. P8 IN.
+  2   |   5   | Doors Open. P4 OUT. P8 OUT.
+  3   |   8   | Doors Open. P5 OUT.
+  4   |   8   | Idle.
+  5   |   8   | Idle.
+  6   |   8   | In transit...
+  7   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P9 IN. P10 IN.
+  8   |   5   | In transit...
+  9   |   4   | Doors Open. P9 OUT. P10 OUT.
+ 10   |   1   | Doors Open. P7 OUT.
+ 11   |   1   | Idle.
+ 12   |   1   | Idle.
+ 13   |   1   | Idle.
+ 14   |   1   | Idle.
+ 15   |   1   | In transit...
+ 16   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P6 OUT.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-23
+ TOTAL TIME: 131 | BEST POSSIBLE: 92.00
+ ABS GAP:    39.00 | REL GAP: 29.77 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P2 IN. P3 IN. P5 IN. P7 IN. P10 IN. P12 IN. P13 IN.
+  3   |   1   | Doors Open. P13 OUT.
+  4   |   0   | Doors Open. P2 OUT. P3 OUT. P5 OUT. P7 OUT. P10 OUT. P12 OUT.
+  5   |   0   | In transit...
+  6   |   1   | Idle.
+  7   |   1   | Idle.
+  8   |   1   | Idle.
+  9   |   1   | Idle.
+ 10   |   1   | In transit...
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Doors Open. P11 IN. P14 IN. P15 IN. P16 IN. P17 IN. P18 IN. P19 IN.
+ 14   |   6   | Doors Open. P14 OUT. P15 OUT.
+ 15   |   3   | Idle.
+ 16   |   3   | Idle.
+ 17   |   3   | Idle.
+ 18   |   3   | Doors Open. P19 OUT.
+ 19   |   2   | Doors Open. P16 OUT. P17 OUT. P18 OUT.
+ 20   |   7   | Doors Open. P1 IN. P4 IN. P6 IN. P8 IN. P9 IN. P20 IN.
+ 21   |   4   | Doors Open. P20 OUT.
+ 22   |   4   | In transit...
+ 23   |   0   | Doors Open. P1 OUT. P4 OUT. P6 OUT. P8 OUT. P9 OUT. P11 OUT.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-16
+ TOTAL TIME: 133 | BEST POSSIBLE: 101.92
+ ABS GAP:    31.08 | REL GAP: 23.37 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P9 IN. P11 IN. P13 IN. P16 IN. P17 IN. P19 IN. P20 IN.
+  2   |   8   | Doors Open. P13 OUT. P20 OUT.
+  3   |   8   | In transit...
+  4   |   9   | Doors Open. P11 OUT.
+  5   |   8   | In transit...
+  6   |   6   | Doors Open. P9 OUT. P16 OUT. P19 OUT.
+  7   |   7   | Idle.
+  8   |   7   | Doors Open. P2 IN. P3 IN. P6 IN. P7 IN. P8 IN. P18 IN.
+  9   |   5   | Idle.
+ 10   |   5   | Doors Open. P6 OUT.
+ 11   |   4   | Idle.
+ 12   |   4   | Doors Open. P8 OUT.
+ 13   |   4   | In transit...
+ 14   |   3   | Doors Open. P17 OUT.
+ 15   |   0   | Doors Open. P2 OUT. P3 OUT. P7 OUT. P18 OUT.
+ 16   |   6   | In transit...
+ 17   |   7   | Idle.
+ 18   |   7   | Doors Open. P1 IN. P4 IN. P5 IN. P10 IN. P12 IN. P14 IN. P15 IN.
+ 19   |   2   | Idle.
+ 20   |   2   | Doors Open. P15 OUT.
+ 21   |   1   | Idle.
+ 22   |   1   | Doors Open. P12 OUT. P14 OUT.
+ 23   |   0   | Doors Open. P1 OUT. P4 OUT. P5 OUT. P10 OUT.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-9
+ TOTAL TIME: 139 | BEST POSSIBLE: 98.52
+ ABS GAP:    40.48 | REL GAP: 29.13 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P4 IN. P5 IN. P7 IN. P10 IN. P20 IN.
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P4 OUT. P5 OUT. P7 OUT. P10 OUT.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P13 IN. P15 IN. P16 IN. P17 IN. P18 IN. P19 IN.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | In transit...
+ 10   |   4   | Doors Open. P19 OUT.
+ 11   |   1   | Doors Open. P16 OUT. P18 OUT.
+ 12   |   3   | Doors Open. P17 OUT.
+ 13   |   6   | Doors Open. P13 OUT.
+ 14   |   8   | Doors Open. P20 OUT.
+ 15   |   9   | Doors Open. P15 OUT.
+ 16   |   7   | Idle.
+ 17   |   7   | Doors Open. P3 IN. P6 IN. P8 IN. P9 IN. P11 IN. P12 IN. P14 IN.
+ 18   |   0   | Doors Open. P3 OUT. P6 OUT. P8 OUT. P9 OUT. P11 OUT. P12 OUT. P14 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-4
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   9   | Doors Open. P5 OUT.
+  3   |   2   | Idle.
+  4   |   2   | Doors Open. P3 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P4 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-23
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   7   | In transit...
+  3   |   9   | Doors Open. P5 OUT.
+  4   |   1   | Idle.
+  5   |   1   | Idle.
+  6   |   1   | Doors Open. P4 OUT.
+  7   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-4
+ TOTAL TIME: 65 | BEST POSSIBLE: 57.38
+ ABS GAP:    7.62 | REL GAP: 11.72 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P4 IN. P7 IN. P8 IN. P9 IN.
+  2   |   5   | Doors Open. P7 OUT.
+  3   |   6   | Doors Open. P4 OUT. P9 OUT.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN. P6 IN. P10 IN.
+  7   |   6   | Idle.
+  8   |   6   | Idle.
+  9   |   6   | Idle.
+ 10   |   6   | In transit...
+ 11   |   5   | Idle.
+ 12   |   5   | In transit...
+ 13   |   4   | Doors Open. P5 OUT. P6 OUT. P8 OUT.
+ 14   |   4   | Idle.
+ 15   |   4   | Idle.
+ 16   |   4   | Idle.
+ 17   |   4   | In transit...
+ 18   |   2   | Doors Open. P10 OUT.
+ 19   |   2   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-10
+ TOTAL TIME: 127 | BEST POSSIBLE: 86.97
+ ABS GAP:    40.03 | REL GAP: 31.52 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P2 IN. P3 IN. P4 IN. P8 IN. P9 IN. P10 IN. P14 IN. P17 IN.
+  6   |   1   | Doors Open. P14 OUT. P17 OUT.
+  7   |   0   | Doors Open. P2 OUT. P3 OUT. P4 OUT. P8 OUT. P9 OUT. P10 OUT.
+  8   |   7   | Doors Open. P5 IN. P13 IN. P15 IN. P16 IN. P18 IN. P19 IN. P20 IN.
+  9   |   5   | Doors Open. P15 OUT.
+ 10   |   4   | Idle.
+ 11   |   4   | Doors Open. P16 OUT. P18 OUT.
+ 12   |   6   | Doors Open. P13 OUT. P20 OUT.
+ 13   |   6   | In transit...
+ 14   |   7   | Idle.
+ 15   |   7   | Idle.
+ 16   |   7   | Doors Open. P1 IN. P6 IN. P7 IN. P11 IN. P12 IN.
+ 17   |   7   | In transit...
+ 18   |   3   | Doors Open. P19 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Doors Open. P1 OUT. P5 OUT. P6 OUT. P7 OUT. P11 OUT. P12 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-0
+ TOTAL TIME: 31 | BEST POSSIBLE: 31.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT.
+  3   |   0   | Idle.
+  4   |   0   | Idle.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-2
+ TOTAL TIME: 37 | BEST POSSIBLE: 37.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   4   | Doors Open. P3 OUT.
+  3   |   4   | In transit...
+  4   |   3   | Doors Open. P4 OUT.
+  5   |   3   | In transit...
+  6   |   2   | Doors Open. P5 OUT.
+  7   |   0   | Doors Open. P1 OUT. P2 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-6
+ TOTAL TIME: 67 | BEST POSSIBLE: 62.02
+ ABS GAP:    4.98 | REL GAP: 7.43 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P5 IN. P7 IN. P9 IN. P10 IN.
+  3   |   6   | Idle.
+  4   |   6   | Doors Open. P5 OUT. P10 OUT.
+  5   |   9   | Idle.
+  6   |   9   | Idle.
+  7   |   9   | Idle.
+  8   |   9   | Idle.
+  9   |   9   | Idle.
+ 10   |   9   | Doors Open. P7 OUT. P9 OUT.
+ 11   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P6 IN. P8 IN.
+ 12   |   4   | Idle.
+ 13   |   4   | Idle.
+ 14   |   4   | Doors Open. P6 OUT.
+ 15   |   4   | Idle.
+ 16   |   4   | Idle.
+ 17   |   4   | In transit...
+ 18   |   1   | Doors Open. P8 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-13
+ TOTAL TIME: 130 | BEST POSSIBLE: 98.62
+ ABS GAP:    31.38 | REL GAP: 24.14 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P10 IN. P14 IN.
+  3   |   6   | In transit...
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P10 OUT.
+  5   |   3   | Idle.
+  6   |   3   | Doors Open. P14 OUT.
+  7   |   3   | In transit...
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Idle.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Doors Open. P6 IN. P15 IN. P16 IN. P17 IN. P18 IN. P19 IN. P20 IN.
+ 15   |   4   | Doors Open. P16 OUT. P19 OUT.
+ 16   |   4   | In transit...
+ 17   |   5   | Doors Open. P15 OUT.
+ 18   |   6   | Doors Open. P18 OUT.
+ 19   |   6   | In transit...
+ 20   |   8   | Doors Open. P6 OUT. P17 OUT. P20 OUT.
+ 21   |   7   | Idle.
+ 22   |   7   | Doors Open. P7 IN. P8 IN. P9 IN. P11 IN. P12 IN. P13 IN.
+ 23   |   2   | Idle.
+ 24   |   2   | Doors Open. P8 OUT. P9 OUT. P13 OUT.
+ 25   |   1   | Doors Open. P7 OUT. P11 OUT. P12 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-18
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   6   | In transit...
+  3   |   5   | Doors Open. P5 OUT.
+  4   |   4   | In transit...
+  5   |   3   | In transit...
+  6   |   2   | In transit...
+  7   |   1   | Idle.
+  8   |   1   | Doors Open. P4 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-19
+ TOTAL TIME: 127 | BEST POSSIBLE: 87.69
+ ABS GAP:    39.31 | REL GAP: 30.95 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P5 IN. P6 IN. P10 IN. P11 IN. P12 IN. P18 IN. P19 IN.
+  2   |   2   | Idle.
+  3   |   2   | Idle.
+  4   |   2   | Idle.
+  5   |   2   | In transit...
+  6   |   0   | Doors Open. P1 OUT. P5 OUT. P6 OUT. P10 OUT. P11 OUT. P12 OUT. P19 OUT.
+  7   |   0   | In transit...
+  8   |   2   | Doors Open. P18 OUT.
+  9   |   2   | Idle.
+ 10   |   2   | In transit...
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Doors Open. P2 IN. P13 IN. P14 IN. P15 IN. P16 IN. P17 IN. P20 IN.
+ 15   |   4   | Doors Open. P16 OUT. P20 OUT.
+ 16   |   4   | In transit...
+ 17   |   5   | Idle.
+ 18   |   5   | Idle.
+ 19   |   5   | Doors Open. P17 OUT.
+ 20   |   6   | Idle.
+ 21   |   6   | Doors Open. P13 OUT. P14 OUT.
+ 22   |   7   | Doors Open. P3 IN. P4 IN. P7 IN. P8 IN. P9 IN.
+ 23   |   1   | Doors Open. P15 OUT.
+ 24   |   0   | Doors Open. P2 OUT. P3 OUT. P4 OUT. P7 OUT. P8 OUT. P9 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-5
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   3   | Idle.
+  6   |   3   | Idle.
+  7   |   3   | Idle.
+  8   |   3   | Idle.
+  9   |   3   | Doors Open. P4 OUT. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-14
+ TOTAL TIME: 67 | BEST POSSIBLE: 63.00
+ ABS GAP:    4.00 | REL GAP: 5.97 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P3 IN. P4 IN. P6 IN. P7 IN. P9 IN. P10 IN.
+  5   |   8   | Doors Open. P6 OUT.
+  6   |   8   | In transit...
+  7   |   9   | Doors Open. P7 OUT. P9 OUT.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P2 IN. P5 IN. P8 IN.
+ 11   |   7   | In transit...
+ 12   |   6   | Doors Open. P5 OUT.
+ 13   |   6   | In transit...
+ 14   |   4   | Doors Open. P4 OUT. P10 OUT.
+ 15   |   4   | In transit...
+ 16   |   2   | Doors Open. P8 OUT.
+ 17   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-22
+ TOTAL TIME: 135 | BEST POSSIBLE: 98.83
+ ABS GAP:    36.17 | REL GAP: 26.79 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P3 IN. P5 IN. P6 IN. P10 IN. P11 IN. P12 IN. P14 IN.
+  2   |   0   | Doors Open. P3 OUT. P5 OUT. P6 OUT. P10 OUT. P11 OUT. P12 OUT. P14 OUT.
+  3   |   7   | Doors Open. P4 IN. P13 IN. P15 IN. P16 IN. P17 IN. P18 IN. P19 IN.
+  4   |   7   | Idle.
+  5   |   7   | In transit...
+  6   |   9   | Doors Open. P15 OUT. P17 OUT.
+  7   |   8   | Doors Open. P13 OUT.
+  8   |   8   | Idle.
+  9   |   8   | Idle.
+ 10   |   8   | In transit...
+ 11   |   7   | In transit...
+ 12   |   6   | Idle.
+ 13   |   6   | In transit...
+ 14   |   5   | Idle.
+ 15   |   5   | Doors Open. P16 OUT.
+ 16   |   4   | Doors Open. P18 OUT.
+ 17   |   3   | Doors Open. P19 OUT.
+ 18   |   3   | In transit...
+ 19   |   7   | Doors Open. P1 IN. P2 IN. P7 IN. P8 IN. P9 IN. P20 IN.
+ 20   |   7   | In transit...
+ 21   |   4   | In transit...
+ 22   |   2   | Doors Open. P20 OUT.
+ 23   |   0   | Idle.
+ 24   |   0   | Doors Open. P1 OUT. P2 OUT. P4 OUT. P7 OUT. P8 OUT. P9 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,3)-3
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  6   |   3   | Doors Open. P5 OUT.
+  7   |   2   | Doors Open. P4 OUT.
+  8   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+  9   |   0   | Idle.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-9
+ TOTAL TIME: 65 | BEST POSSIBLE: 53.46
+ ABS GAP:    11.54 | REL GAP: 17.75 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P4 IN. P6 IN. P7 IN. P8 IN.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | In transit...
+  8   |   5   | Doors Open. P4 OUT. P7 OUT. P8 OUT.
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P5 IN. P9 IN. P10 IN.
+ 11   |   3   | Idle.
+ 12   |   3   | Doors Open. P6 OUT. P9 OUT.
+ 13   |   2   | Doors Open. P10 OUT.
+ 14   |   2   | In transit...
+ 15   |   1   | Doors Open. P5 OUT.
+ 16   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 17   |   0   | Idle.
+ 18   |   0   | Idle.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-17
+ TOTAL TIME: 135 | BEST POSSIBLE: 95.24
+ ABS GAP:    39.76 | REL GAP: 29.45 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P7 IN. P12 IN.
+  2   |   7   | In transit...
+  3   |   0   | Idle.
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P12 OUT.
+  5   |   0   | Idle.
+  6   |   0   | Idle.
+  7   |   0   | Idle.
+  8   |   0   | In transit...
+  9   |   4   | In transit...
+ 10   |   5   | In transit...
+ 11   |   7   | Doors Open. P13 IN. P15 IN. P16 IN. P17 IN. P18 IN. P20 IN.
+ 12   |   8   | Doors Open. P20 OUT.
+ 13   |   9   | Doors Open. P13 OUT. P17 OUT.
+ 14   |   9   | In transit...
+ 15   |   8   | In transit...
+ 16   |   7   | Idle.
+ 17   |   7   | In transit...
+ 18   |   5   | Doors Open. P18 OUT.
+ 19   |   2   | Doors Open. P15 OUT.
+ 20   |   4   | Doors Open. P16 OUT.
+ 21   |   7   | Doors Open. P6 IN. P8 IN. P9 IN. P10 IN. P11 IN. P14 IN. P19 IN.
+ 22   |   0   | Doors Open. P6 OUT. P8 OUT. P9 OUT. P10 OUT. P11 OUT. P14 OUT. P19 OUT.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-6
+ TOTAL TIME: 41 | BEST POSSIBLE: 41.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  5   |   8   | Doors Open. P3 OUT.
+  6   |   9   | Doors Open. P4 OUT.
+  7   |   4   | Idle.
+  8   |   4   | Doors Open. P5 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT.
+ 10   |   0   | In transit...
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-14
+ TOTAL TIME: 133 | BEST POSSIBLE: 95.33
+ ABS GAP:    37.67 | REL GAP: 28.32 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P6 IN. P13 IN. P14 IN. P15 IN. P16 IN. P17 IN. P18 IN.
+  4   |   7   | Idle.
+  5   |   7   | In transit...
+  6   |   9   | Doors Open. P16 OUT. P17 OUT. P18 OUT.
+  7   |   8   | In transit...
+  8   |   6   | Doors Open. P15 OUT.
+  9   |   6   | Idle.
+ 10   |   6   | In transit...
+ 11   |   3   | Doors Open. P13 OUT.
+ 12   |   3   | Idle.
+ 13   |   3   | In transit...
+ 14   |   5   | Doors Open. P14 OUT.
+ 15   |   5   | In transit...
+ 16   |   7   | Doors Open. P1 IN. P2 IN. P7 IN. P8 IN. P19 IN. P20 IN.
+ 17   |   2   | Doors Open. P19 OUT. P20 OUT.
+ 18   |   0   | Idle.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P6 OUT. P7 OUT. P8 OUT.
+ 20   |   0   | Idle.
+ 21   |   0   | In transit...
+ 22   |   7   | Doors Open. P3 IN. P4 IN. P5 IN. P9 IN. P10 IN. P11 IN. P12 IN.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Doors Open. P3 OUT. P4 OUT. P5 OUT. P9 OUT. P10 OUT. P11 OUT. P12 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-18
+ TOTAL TIME: 121 | BEST POSSIBLE: 91.08
+ ABS GAP:    29.92 | REL GAP: 24.73 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P13 IN. P15 IN. P16 IN. P17 IN. P18 IN. P19 IN. P20 IN.
+  3   |   6   | Idle.
+  4   |   6   | Doors Open. P16 OUT. P17 OUT. P19 OUT.
+  5   |   5   | Doors Open. P13 OUT. P15 OUT. P18 OUT. P20 OUT.
+  6   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P7 IN. P11 IN. P12 IN. P14 IN.
+  7   |   2   | Doors Open. P14 OUT.
+  8   |   2   | In transit...
+  9   |   0   | Idle.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P11 OUT. P12 OUT.
+ 11   |   0   | Idle.
+ 12   |   0   | Idle.
+ 13   |   0   | Idle.
+ 14   |   0   | In transit...
+ 15   |   7   | Doors Open. P4 IN. P5 IN. P6 IN. P8 IN. P9 IN. P10 IN.
+ 16   |   7   | Idle.
+ 17   |   7   | In transit...
+ 18   |   0   | Idle.
+ 19   |   0   | Doors Open. P4 OUT. P5 OUT. P6 OUT. P7 OUT. P8 OUT. P9 OUT. P10 OUT.
+ 20   |   0   | Idle.
+ 21   |   0   | Idle.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-0
+ TOTAL TIME: 128 | BEST POSSIBLE: 96.02
+ ABS GAP:    31.98 | REL GAP: 24.98 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P9 IN. P11 IN.
+  2   |   7   | In transit...
+  3   |   4   | In transit...
+  4   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P9 OUT. P11 OUT.
+  5   |   1   | Idle.
+  6   |   1   | Idle.
+  7   |   1   | Idle.
+  8   |   1   | Idle.
+  9   |   1   | In transit...
+ 10   |   7   | Idle.
+ 11   |   7   | Idle.
+ 12   |   7   | Idle.
+ 13   |   7   | Idle.
+ 14   |   7   | Doors Open. P8 IN. P10 IN. P12 IN. P13 IN. P15 IN. P16 IN. P17 IN.
+ 15   |   8   | Doors Open. P10 OUT. P15 OUT.
+ 16   |   5   | Doors Open. P13 OUT.
+ 17   |   6   | Idle.
+ 18   |   6   | Doors Open. P12 OUT. P16 OUT. P17 OUT.
+ 19   |   6   | In transit...
+ 20   |   7   | Doors Open. P6 IN. P7 IN. P14 IN. P18 IN. P19 IN. P20 IN.
+ 21   |   4   | Doors Open. P7 OUT. P18 OUT.
+ 22   |   3   | Doors Open. P14 OUT. P19 OUT.
+ 23   |   2   | Doors Open. P6 OUT. P20 OUT.
+ 24   |   1   | Doors Open. P8 OUT.
+ 25   |   1   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-5
+ TOTAL TIME: 139 | BEST POSSIBLE: 89.42
+ ABS GAP:    49.58 | REL GAP: 35.67 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Doors Open. P4 IN. P13 IN. P14 IN. P15 IN. P17 IN. P18 IN. P19 IN.
+  6   |   9   | Doors Open. P15 OUT.
+  7   |   8   | Doors Open. P19 OUT.
+  8   |   7   | Idle.
+  9   |   7   | In transit...
+ 10   |   6   | Doors Open. P18 OUT.
+ 11   |   1   | Doors Open. P13 OUT.
+ 12   |   2   | Idle.
+ 13   |   2   | Idle.
+ 14   |   2   | Doors Open. P17 OUT.
+ 15   |   2   | Idle.
+ 16   |   2   | In transit...
+ 17   |   5   | Doors Open. P14 OUT.
+ 18   |   5   | In transit...
+ 19   |   7   | Doors Open. P2 IN. P8 IN. P9 IN. P10 IN. P11 IN. P20 IN.
+ 20   |   7   | In transit...
+ 21   |   0   | Doors Open. P2 OUT. P4 OUT. P8 OUT. P9 OUT. P10 OUT. P11 OUT. P20 OUT.
+ 22   |   7   | Doors Open. P1 IN. P3 IN. P5 IN. P6 IN. P7 IN. P12 IN. P16 IN.
+ 23   |   7   | In transit...
+ 24   |   0   | Doors Open. P1 OUT. P3 OUT. P5 OUT. P6 OUT. P7 OUT. P12 OUT. P16 OUT.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,12)-11
+ TOTAL TIME: 127 | BEST POSSIBLE: 92.02
+ ABS GAP:    34.98 | REL GAP: 27.54 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Doors Open. P4 IN. P13 IN. P14 IN. P15 IN. P17 IN. P18 IN. P20 IN.
+  7   |   8   | Idle.
+  8   |   8   | Idle.
+  9   |   8   | Idle.
+ 10   |   8   | Idle.
+ 11   |   8   | Doors Open. P18 OUT.
+ 12   |   7   | In transit...
+ 13   |   3   | Idle.
+ 14   |   3   | Doors Open. P13 OUT. P14 OUT. P15 OUT. P17 OUT. P20 OUT.
+ 15   |   7   | Idle.
+ 16   |   7   | Idle.
+ 17   |   7   | Doors Open. P2 IN. P3 IN. P7 IN. P10 IN. P11 IN. P12 IN.
+ 18   |   6   | In transit...
+ 19   |   5   | In transit...
+ 20   |   0   | Doors Open. P2 OUT. P3 OUT. P4 OUT. P7 OUT. P10 OUT. P11 OUT. P12 OUT.
+ 21   |   0   | In transit...
+ 22   |   7   | Doors Open. P1 IN. P5 IN. P6 IN. P8 IN. P9 IN. P16 IN. P19 IN.
+ 23   |   3   | In transit...
+ 24   |   1   | Doors Open. P16 OUT. P19 OUT.
+ 25   |   0   | Doors Open. P1 OUT. P5 OUT. P6 OUT. P8 OUT. P9 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-17
+ TOTAL TIME: 33 | BEST POSSIBLE: 33.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  9   |   5   | Doors Open. P5 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-22
+ TOTAL TIME: 59 | BEST POSSIBLE: 56.05
+ ABS GAP:    2.95 | REL GAP: 5.00 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P8 IN. P9 IN. P10 IN.
+  4   |   6   | Idle.
+  5   |   6   | Idle.
+  6   |   6   | Idle.
+  7   |   6   | Idle.
+  8   |   6   | Doors Open. P8 OUT. P9 OUT. P10 OUT.
+  9   |   6   | Idle.
+ 10   |   6   | Idle.
+ 11   |   6   | Idle.
+ 12   |   6   | In transit...
+ 13   |   7   | Idle.
+ 14   |   7   | Idle.
+ 15   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN. P7 IN.
+ 16   |   6   | Idle.
+ 17   |   6   | In transit...
+ 18   |   1   | Doors Open. P7 OUT.
+ 19   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-14
+ TOTAL TIME: 67 | BEST POSSIBLE: 59.50
+ ABS GAP:    7.50 | REL GAP: 11.19 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | Idle.
+  6   |   7   | Idle.
+  7   |   7   | Idle.
+  8   |   7   | Idle.
+  9   |   7   | Idle.
+ 10   |   7   | Idle.
+ 11   |   7   | Doors Open. P7 IN. P8 IN. P9 IN. P10 IN.
+ 12   |   4   | Idle.
+ 13   |   4   | Idle.
+ 14   |   4   | Doors Open. P7 OUT. P9 OUT.
+ 15   |   8   | Doors Open. P10 OUT.
+ 16   |   8   | In transit...
+ 17   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN. P6 IN.
+ 18   |   3   | Doors Open. P8 OUT.
+ 19   |   3   | In transit...
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,3)-15
+ TOTAL TIME: 71 | BEST POSSIBLE: 66.47
+ ABS GAP:    4.53 | REL GAP: 6.38 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P4 IN. P5 IN. P6 IN. P8 IN.
+  2   |   9   | Idle.
+  3   |   9   | Doors Open. P5 OUT.
+  4   |   8   | Idle.
+  5   |   8   | Idle.
+  6   |   8   | Doors Open. P6 OUT.
+  7   |   6   | Doors Open. P4 OUT.
+  8   |   6   | In transit...
+  9   |   7   | Idle.
+ 10   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P7 IN. P9 IN. P10 IN.
+ 11   |   5   | Doors Open. P8 OUT.
+ 12   |   4   | Idle.
+ 13   |   4   | Doors Open. P7 OUT.
+ 14   |   4   | In transit...
+ 15   |   3   | Doors Open. P9 OUT. P10 OUT.
+ 16   |   3   | Idle.
+ 17   |   3   | In transit...
+ 18   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 19   |   0   | Idle.
+ 20   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(10,6)-17
+ TOTAL TIME: 73 | BEST POSSIBLE: 59.31
+ ABS GAP:    13.69 | REL GAP: 18.75 % (TARGET: 5%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P6 IN. P7 IN. P9 IN. P10 IN.
+  4   |   1   | Doors Open. P7 OUT.
+  5   |   3   | Idle.
+  6   |   3   | Idle.
+  7   |   3   | Idle.
+  8   |   3   | Idle.
+  9   |   3   | Idle.
+ 10   |   3   | Doors Open. P10 OUT.
+ 11   |   3   | Idle.
+ 12   |   3   | Idle.
+ 13   |   3   | Idle.
+ 14   |   3   | Idle.
+ 15   |   3   | Idle.
+ 16   |   3   | Idle.
+ 17   |   3   | In transit...
+ 18   |   8   | Doors Open. P9 OUT.
+ 19   |   7   | Doors Open. P4 IN. P5 IN. P8 IN.
+ 20   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P4 OUT. P5 OUT. P6 OUT. P8 OUT.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-22
+ TOTAL TIME: 41 | BEST POSSIBLE: 41.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   9   | Doors Open. P3 OUT.
+  3   |   6   | Idle.
+  4   |   6   | Idle.
+  5   |   6   | Doors Open. P5 OUT.
+  6   |   4   | Doors Open. P4 OUT.
+  7   |   0   | Doors Open. P1 OUT. P2 OUT.
+  8   |   0   | Idle.
+  9   |   0   | Idle.
+ 10   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(20,5)-23
+ TOTAL TIME: 127 | BEST POSSIBLE: 90.20
+ ABS GAP:    36.80 | REL GAP: 28.98 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P4 IN. P7 IN. P11 IN. P12 IN. P13 IN. P14 IN. P20 IN.
+  2   |   3   | Doors Open. P7 OUT. P13 OUT.
+  3   |   0   | Doors Open. P4 OUT. P12 OUT. P14 OUT.
+  4   |   1   | Idle.
+  5   |   1   | Idle.
+  6   |   1   | Idle.
+  7   |   1   | Idle.
+  8   |   1   | Doors Open. P20 OUT.
+  9   |   2   | Idle.
+ 10   |   2   | Idle.
+ 11   |   2   | Idle.
+ 12   |   2   | Doors Open. P11 OUT.
+ 13   |   2   | In transit...
+ 14   |   7   | Doors Open. P2 IN. P6 IN. P8 IN. P9 IN. P15 IN. P16 IN. P18 IN.
+ 15   |   8   | Doors Open. P9 OUT. P15 OUT. P16 OUT. P18 OUT.
+ 16   |   9   | Doors Open. P6 OUT.
+ 17   |   7   | Idle.
+ 18   |   7   | Idle.
+ 19   |   7   | Doors Open. P1 IN. P3 IN. P5 IN. P10 IN. P17 IN. P19 IN.
+ 20   |   6   | Doors Open. P10 OUT. P17 OUT. P19 OUT.
+ 21   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT. P5 OUT. P8 OUT.
+ 22   |   0   | Idle.
+ 23   |   0   | Idle.
+ 24   |   0   | Idle.
+ 25   |   0   | Idle.
+
+
+===============================================================
+ RESULTS FOR FILE: Concentrated(5,2)-19
+ TOTAL TIME: 39 | BEST POSSIBLE: 39.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  2   |   8   | Doors Open. P5 OUT.
+  3   |   4   | Idle.
+  4   |   4   | Idle.
+  5   |   4   | Doors Open. P4 OUT.
+  6   |   4   | Idle.
+  7   |   4   | Idle.
+  8   |   4   | In transit...
+  9   |   1   | Doors Open. P3 OUT.
+ 10   |   0   | Doors Open. P1 OUT. P2 OUT.
+
+

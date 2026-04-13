@@ -1,0 +1,31 @@
+===============================================================
+ ROUTE ITINERARY FOR: Concentrated(20,12)-20
+ TOTAL TIME: 131 | BEST POSSIBLE: 95.00
+ ABS GAP:    36.00 | REL GAP: 27.48 % (TARGET: 10%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Doors Open. P3 IN. P4 IN. P5 IN. P7 IN. P11 IN. P12 IN. P17 IN.
+  3   |   7   | Idle.
+  4   |   7   | Idle.
+  5   |   7   | In transit...
+  6   |   0   | Doors Open. P3 OUT. P4 OUT. P5 OUT. P7 OUT. P11 OUT. P12 OUT.
+  7   |   4   | Doors Open. P17 OUT.
+  8   |   7   | Doors Open. P13 IN. P14 IN. P15 IN. P18 IN. P19 IN. P20 IN.
+  9   |   5   | Idle.
+ 10   |   5   | Doors Open. P20 OUT.
+ 11   |   5   | Idle.
+ 12   |   5   | In transit...
+ 13   |   6   | Doors Open. P13 OUT. P14 OUT.
+ 14   |   8   | Doors Open. P15 OUT. P18 OUT.
+ 15   |   9   | Doors Open. P19 OUT.
+ 16   |   7   | Idle.
+ 17   |   7   | Idle.
+ 18   |   7   | Idle.
+ 19   |   7   | Idle.
+ 20   |   7   | Idle.
+ 21   |   7   | Doors Open. P1 IN. P2 IN. P6 IN. P8 IN. P9 IN. P10 IN. P16 IN.
+ 22   |   7   | In transit...
+ 23   |   1   | Doors Open. P16 OUT.
+ 24   |   1   | In transit...
+ 25   |   0   | Doors Open. P1 OUT. P2 OUT. P6 OUT. P8 OUT. P9 OUT. P10 OUT.
+

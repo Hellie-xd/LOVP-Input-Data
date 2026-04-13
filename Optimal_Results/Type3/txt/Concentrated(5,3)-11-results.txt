@@ -1,0 +1,16 @@
+===============================================================
+ ROUTE ITINERARY FOR: Concentrated(5,3)-11
+ TOTAL TIME: 35 | BEST POSSIBLE: 35.00
+ ABS GAP:    0.00 | REL GAP: 0.00 % (TARGET: 0%)
+---------------------------------------------------------------
+  1   |   7   | Idle.
+  2   |   7   | Idle.
+  3   |   7   | Doors Open. P1 IN. P2 IN. P3 IN. P4 IN. P5 IN.
+  4   |   7   | In transit...
+  5   |   2   | Idle.
+  6   |   2   | Doors Open. P5 OUT.
+  7   |   1   | Idle.
+  8   |   1   | Doors Open. P4 OUT.
+  9   |   0   | Doors Open. P1 OUT. P2 OUT. P3 OUT.
+ 10   |   0   | In transit...
+

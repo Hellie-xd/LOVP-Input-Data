@@ -1,0 +1,53 @@
+[
+  {
+    "floor": 7,
+    "people_got_out": [],
+    "people_got_in": ["person-2", "person-3", "person-7", "person-12", "person-16", "person-18", "person-19"]
+  },
+  {
+    "floor": 8,
+    "people_got_out": ["person-16"],
+    "people_got_in": []
+  },
+  {
+    "floor": 9,
+    "people_got_out": ["person-19"],
+    "people_got_in": []
+  },
+  {
+    "floor": 0,
+    "people_got_out": ["person-2", "person-3", "person-7", "person-12", "person-18"],
+    "people_got_in": []
+  },
+  {
+    "floor": 7,
+    "people_got_out": [],
+    "people_got_in": ["person-4", "person-6", "person-13", "person-14", "person-15", "person-17", "person-20"]
+  },
+  {
+    "floor": 4,
+    "people_got_out": ["person-15"],
+    "people_got_in": []
+  },
+  {
+    "floor": 3,
+    "people_got_out": ["person-13", "person-14", "person-17"],
+    "people_got_in": []
+  },
+  {
+    "floor": 5,
+    "people_got_out": ["person-20"],
+    "people_got_in": []
+  },
+  {
+    "floor": 7,
+    "people_got_out": [],
+    "people_got_in": ["person-1", "person-5", "person-8", "person-9", "person-10", "person-11"]
+  },
+  {
+    "floor": 0,
+    "people_got_out": ["person-1", "person-4", "person-5", "person-6", "person-8", "person-9", "person-10", "person-11"],
+    "people_got_in": []
+  }
+]
+
